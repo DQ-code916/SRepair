@@ -200,15 +200,16 @@ class DataHandler():
             for c in self.DOM.keys():
                 ADict[c]={'X':np.zeros((math.comb(self.k_T,2)+self.k_T, self.m)),'Y':np.zeros((math.comb(self.k_T,2)+self.k_T, 1))}
                 self.DModel[i][c]={}
-            for j_id in range(self.k_T):
+            k_T=min(len(self.TList[i]),self.k_T)
+            for j_id in range(k_T):
                 j=self.TList[i][j_id]
                 X=self.X_Dict[i][j]
                 for c in self.DOM.keys():
                     ADict[c]['Y'][j_id]=X[c+1]
                     ADict[c]['X'][j_id,:]=np.concatenate((X[:c+1],X[c+2:]))
-            id=self.k_T
-            for j_id in range(self.k_T):
-                for j_id2 in range(j_id+1,self.k_T):
+            id=k_T
+            for j_id in range(k_T):
+                for j_id2 in range(j_id+1,k_T):
                     j,j2=self.TList[i][j_id],self.TList[i][j_id2]
                     X=self.X_Dict[j][j2]
                     for c in self.DOM.keys():

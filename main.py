@@ -12,10 +12,10 @@ from util.Assist import *
 
 
 
-DataSet_Set=['res']
+DataSet_Set=['flights']
 MethodSet=['Probabilistic','Clique']
 LineRange='All'
-task=8
+task=1
 
 
 
@@ -122,7 +122,7 @@ if task==4:
     ls=None
 
 # Sensitivity: m
-if task==6:             
+if task==5:             
     DataSet='rayyan'
     MethodSet=['Probabilistic','Clique','ILP']
     repite=10
@@ -156,7 +156,7 @@ if task==6:
     print(resTable_t)
 
 # Experiments: Classification
-if task==7:             
+if task==6:             
     for pct in ['5%','10%','15%','20%']:
         DataSet='yeast'
         MethodSet=['Probabilistic','Clique']

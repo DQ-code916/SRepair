@@ -1,11 +1,11 @@
-# Learning Dependency Models for Subset Repair
+# Leveraging Dependencies for Subset Repair
 
 ## File Structure
 
 + algorithm: source code of Probabilistic, Clique and ILP  
 + data: some source files of datasets used in experiments  
 + util: auxiliary functions and classes  
-+ Appendix.pdf: proofs for all the theoretical results in the manuscript, including Theorem 1, Proposition 2 to 16  
++ Appendix.pdf: proofs for all the theoretical results in the manuscript, including Theorem 1, Proposition 1 to 14  
 + main.py: source code of the experiments
 + main_core.py: source code of the whole process, including data loading, conflict detection, conformance calculation and the main process of the three algorithms
 
@@ -36,5 +36,5 @@ python main.py --============ restaurant ============ --1-complete  --2-complete
 ## Tools:
 + Bart: a tool for error generation. https://db.unibas.it/projects/bart/
 + FastADC: a tool for DC discovery. https://github.com/RangerShaw/FastADC
-=======
+
 
