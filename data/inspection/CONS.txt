@@ -1,0 +1,16 @@
+?{ t0.feature3 == t1.feature3 && t0.feature4 == t1.feature4 && t0.feature5 <> t1.feature5 && t0.feature7 == t1.feature7 && t0.feature8 <> t1.feature8 }
+?{ t0.feature2 <> t1.feature2 && t0.feature3 == t1.feature3 && t0.feature4 == t1.feature4 && t0.feature6 <> t1.feature6 && t0.feature9 == t1.feature9 && t0.feature10 <> t1.feature10 && t0.feature11 == t1.feature11 }
+?{ t0.feature2 == t1.feature2 && t0.feature3 == t1.feature3 && t0.feature4 == t1.feature4 && t0.feature6 <> t1.feature6 && t0.feature8 <> t1.feature8 && t0.feature9 == t1.feature9 }
+?{ t0.feature9 == t1.feature9 && t0.feature10 == t1.feature10 && t0.feature11 == t1.feature11 && t0.feature12 <> t1.feature12 && t0.feature13 == t1.feature13 }
+?{ t0.feature2 == t1.feature2 && t0.feature4 == t1.feature4 && t0.feature6 <> t1.feature6 && t0.feature7 == t1.feature7 && t0.feature8 <> t1.feature8 }
+?{ t0.feature2 == t1.feature2 && t0.feature3 == t1.feature3 && t0.feature4 == t1.feature4 && t0.feature6 <> t1.feature6 && t0.feature8 <> t1.feature8 && t0.feature9 == t1.feature9 }
+?{ t0.feature2 == t1.feature2 && t0.feature4 <> t1.feature4 && t0.feature7 == t1.feature7 && t0.feature8 <> t1.feature8 && t0.feature9 == t1.feature9 }
+?{ t0.feature4 == t1.feature4 && t0.feature5 <> t1.feature5 && t0.feature7 == t1.feature7 && t0.feature8 <> t1.feature8 && t0.feature9 == t1.feature9 }
+?{ t0.feature3 == t1.feature3 && t0.feature4 == t1.feature4 && t0.feature6 <> t1.feature6 && t0.feature8 <> t1.feature8 && t0.feature9 == t1.feature9 && t0.feature10 <> t1.feature10 }
+?{ t0.feature3 == t1.feature3 && t0.feature6 <> t1.feature6 && t0.feature7 == t1.feature7 && t0.feature8 <> t1.feature8 && t0.feature9 == t1.feature9 }
+?{ t0.feature4 == t1.feature4 && t0.feature5 <> t1.feature5 && t0.feature6 == t1.feature6 && t0.feature7 == t1.feature7 && t0.feature8 <> t1.feature8 }
+?{ t0.feature4 == t1.feature4 && t0.feature5 == t1.feature5 && t0.feature6 <> t1.feature6 && t0.feature7 == t1.feature7 && t0.feature8 <> t1.feature8 }
+?{ t0.feature2 == t1.feature2 && t0.feature3 <> t1.feature3 && t0.feature4 <> t1.feature4 && t0.feature7 == t1.feature7 && t0.feature8 <> t1.feature8 }
+?{ t0.feature2 == t1.feature2 && t0.feature3 == t1.feature3 && t0.feature4 == t1.feature4 && t0.feature5 <> t1.feature5 && t0.feature6 == t1.feature6 && t0.feature8 <> t1.feature8 && t0.feature11 == t1.feature11 }
+?{ t0.feature3 == t1.feature3 && t0.feature4 == t1.feature4 && t0.feature5 <> t1.feature5 && t0.feature8 <> t1.feature8 && t0.feature9 == t1.feature9 && t0.feature10 <> t1.feature10 }
+

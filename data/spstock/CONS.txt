@@ -1,0 +1,7 @@
+?{ t0.date == t1.date && t0.low == t1.low && t0.volume == t1.volume }
+?{ t0.date == t1.date && t0.ticker == t1.ticker}
+?{ t0.open <= t1.open && t0.low > t1.low && t0.volume == t1.volume && t0.close == t1.close }
+?{ t0.ticker <> t1.ticker && t0.open <= t1.open && t0.high == t1.high && t0.close >= t1.close && t0.volume == t1.volume}
+?{ t0.high == t1.high && t0.low == t1.low && t0.volume == t1.volume }
+?{ t0.close == t1.close && t0.low <> t1.low && t0.volume == t1.volume }
+?{ t0.high == t1.high && t0.ticker <> t1.ticker && t0.volume == t1.volume }

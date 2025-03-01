@@ -1,0 +1,4 @@
+{ t0.flight == t1.flight && t0.sched_arr_time <> t1.sched_arr_time }
+{ t0.sched_dep_time == t1.sched_dep_time && t0.act_dep_time <> t1.act_dep_time && t0.sched_arr_time == t1.sched_arr_time }
+{ t0.src == t1.src && t0.flight == t1.flight }
+{ t0.sched_dep_time <> t1.sched_dep_time && t0.act_dep_time == t1.act_dep_time && t0.sched_arr_time == t1.sched_arr_time }

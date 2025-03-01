@@ -1,0 +1,3 @@
+{ t0.soccerclub == t1.soccerclub && t0.clubcountry <> t1.clubcountry}
+{ t0.soccerclub == t1.soccerclub && t0.stadium <> t1.stadium}
+{ t0.soccermanager == t1.soccermanager && t0.soccerclub <> t1.soccerclub}
