@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learning Dependency Models for Subset Repair
 
 ## File Structure
@@ -36,3 +37,6 @@ python main.py --============ restaurant ============ --1-complete  --2-complete
 ## Tools:
 + Bart: a tool for error generation. https://db.unibas.it/projects/bart/
 + FastADC: a tool for DC discovery. https://github.com/RangerShaw/FastADC
+=======
+# SRepair
+>>>>>>> 974d7c7f5f39453c68a31585537e7db9a162776f
