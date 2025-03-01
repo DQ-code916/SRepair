@@ -30,7 +30,7 @@ python main.py --============ restaurant ============ --1-complete  --2-complete
 + Flights, Rayyan:  https://github.com/BigDaMa/raha
 + Restaurant: https://github.com/densitysrepair/densitysrepair
 + Soccer:  https://db.unibas.it/projects/bart/
-+ SPStock:  https://github.com/RangerShaw/FastADC
++ SPStock, Inspection:  https://github.com/RangerShaw/FastADC
 + Iris, Yeast: https://sci2s.ugr.es/keel/attributeNoise.php
 
 ## Tools:
