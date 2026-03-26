@@ -1,0 +1,6 @@
+¬{ t0.NOx(GT) == t1.NOx(GT) ∧ t0.NMHC(GT) <> t1.NMHC(GT)   }
+¬{ t0.C6H6(GT) <= t1.C6H6(GT) ∧ t0.S2(NMHC) >= t1.S2(NMHC) }
+¬{ t0.CO(GT) == t1.CO(GT) ∧ t0.NMHC(GT) <> t1.NMHC(GT) }
+¬{ t0.S1(CO) >= t1.S1(CO) ∧ t0.S2(NMHC) <= t1.S2(NMHC) ∧ t0.NOx(GT) == t1.NOx(GT) }
+¬{ t0.S1(CO) >= t1.S1(CO) ∧ t0.NOx(GT) == t1.NOx(GT) ∧ t0.S3(NOx) >= t1.S3(NOx) }
+

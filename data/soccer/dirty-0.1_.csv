@@ -1,0 +1,1625 @@
+od,soccerplayer,position,playercountry,soccerclub,clubcountry,stadium,soccermanager
+0,Diego Benaglio,Goalkeeper,Switzerland,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+1,Max Groon,Goalkeeper,Germany,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+2,Patrick Drewes,Goalkeeper,Germany,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+3,Marcel Schoofer,Defender,Germany,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+4,Timm Klose,Defender,Switzerland,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+5,Ronaldo Aparecido Rodrigues,Defender,Brazil,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+6,Felipe Aliste Lopes,Defender,Brazil,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+7,Ricardo Rodriguez,Defender,Switzerland,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+8,Christian Troosch,Defender,Germany,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+9,Robin Knoche,Defender,Germany,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+10,Moritz Sprenger,Defender,Germany,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+11,Patrick Ochs,Midfielder,Germany,Inter,Germany,Volkswagen Arena,Dieter Hecking
+12,Slobodan Medojevic,Midfielder,Serbia,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+13,Daniel Caligiuri,Midfielder,Germany,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+14,Adelino Androo Vieira de Freitas,Midfielder,Portugal,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+15,Ivan Perisic,Midfielder,Croatia,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+16,Maximilian Arnold,Midfielder,Germany,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+17,Jan Polook,Midfielder,Czech Republic,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+18,Willi Evseev,Midfielder,Germany,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+19,Luiz Gustavo Dias,Midfielder,Brazil,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+20,Bernard MalandaAdje,Midfielder,Belgium,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+21,Kevin De Bruyne,Midfielder,Belgium,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+22,Paul Seguin,Midfielder,Germany,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+23,Ivica Olic,Forward,Croatia,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+24,Bas Dost,Forward,Netherlands,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+25,Kevin Scheidhauer,Forward,Germany,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+26,Stefan Kutschke,Forward,Germany,VfL Wolfsburg,Germany,Volkswagen Arena,Dieter Hecking
+27,Sebastian Mielitz,Goalkeeper,Germany,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+28,Raphael Wolf,Goalkeeper,Germany,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+29,Richard Strebinger,Goalkeeper,Austria,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+30,Luca Caldirola,Defender,Italy,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+31,Assani Lukimya,Defender,Congo DR,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+32,Lukas Schmitz,Defender,Germany,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+33,Sebastian Proodl,Defender,Austria,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+34,Theodor Gebre Selassie,Defender,Czech Republic,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+35,Cimo Roocker,Defender,Germany,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+36,Clemens Fritz,Defender,Germany,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+37,Torben Rehfeldt,Defender,Germany,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+38,Santiago Garcia,Defender,Argentina,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+39,Cedrick Makiadi,Midfielder,Congo DR,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+40,Mehmet Ekici,Midfielder,Turkey,Inter,Germany,Weserstadion,Robin Dutt
+41,Eljero Elia,Midfielder,Netherlands,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+42,Aaron Hunt,Midfielder,Germany,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+43,Zlatko Junuzovic,Midfielder,Austria,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+44,Aleksandar Ignjovski,Midfielder,Serbia,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+45,Felix Kroos,Midfielder,Germany,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+46,Levent Aycicek,Midfielder,Germany,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+47,Predrag Stevanovic,Midfielder,Serbia,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+48,oozkan Yildirim,Midfielder,Germany,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+49,Aleksandar Stevanovic,Midfielder,Serbia,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+50,Philipp Bargfrede,Midfielder,Germany,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+51,Julian von Haacke,Midfielder,Germany,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+52,Ludovic Obraniak,Midfielder,Poland,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+53,Nils Petersen,Forward,Germany,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+54,Martin Kobylanski,Forward,Germany,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+55,Melvyn Lorenzen,Forward,Germany,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+56,Davie Selke,Forward,Germany,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+57,Franco Matias Di Santo,Forward,Argentina,SV Werder Bremen,Germany,Weserstadion,Robin Dutt
+58,Roman Weidenfeller,Goalkeeper,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+59,Mitchell Langerak,Goalkeeper,Australia,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+60,Zlatan Alomerovic,Goalkeeper,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+61,Hendrik Bonmann,Goalkeeper,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+62,Neven Subotic,Defender,Serbia,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+63,Mats Hummels,Defender,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+64,Oliver Kirch,Defender,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+65,Marian Sarr,Defender,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+66,Sokratis Papastathopoulos,Defender,Greece,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+67,Lukasz Piszczek,Defender,Poland,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+68,Marcel Schmelzer,Defender,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+69,Kevin Groookreutz,Defender,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+70,Jannik Bandowski,Defender,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+71,Erik Durm,Defender,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+72,Manuel Friedrich,Defender,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+73,Sebastian Kehl,Midfielder,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+74,Sven Bender,Midfielder,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+75,Jonas Hofmann,Midfielder,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+76,Ilkay Goondogan,Midfielder,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+77,Henrikh Mkhitaryan,Midfielder,Armenia,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+78,Marco Reus,Midfielder,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+79,Jakub Blaszczykowski,Midfielder,Poland,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+80,Nuri Sahin,Midfielder,Turkey,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+81,PierreEmerick Aubameyang,Midfielder,Gabon,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+82,Mustafa Mohammad Amini,Midfielder,Australia,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+83,Milos Jojic,Midfielder,Serbia,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+84,Robert Lewandowski,Forward,Poland,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+85,Julian Schieber,Forward,Germany,Inter,Germany,Signal Iduna Park,Joooorgen Klopp
+86,Marvin Ducksch,Forward,Germany,Borussia Dortmund,Germany,Signal Iduna Park,Joooorgen Klopp
+87,Alexander Manninger,Goalkeeper,Austria,Inter,Germany,SGL arena,Markus Weinzierl
+88,Mohamed Amsif,Goalkeeper,Morocco,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+89,Marwin Hitz,Goalkeeper,Switzerland,Inter,Germany,SGL arena,Markus Weinzierl
+90,Ioannis Gelios,Goalkeeper,Greece,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+91,Paul Verhaegh,Defender,Netherlands,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+92,Ronny Philp,Defender,Germany,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+93,Dominik Reinhardt,Defender,Germany,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+94,Ragnar Klavan,Defender,Estonia,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+95,Marcel de Jong,Defender,Canada,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+96,Matthias Ostrzolek,Defender,Germany,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+97,Maik Uhde,Defender,Germany,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+98,Raphael Framberger,Defender,Germany,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+99,JanIngwer CallsenBracker,Defender,Germany,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+100,JeongHo Hong,Defender,South Korea,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+101,Dominik Kohr,Midfielder,Germany,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+102,Kevin Vogt,Midfielder,Germany,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+103,Raphael Holzhauser,Midfielder,Austria,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+104,Daniel Baier,Midfielder,Germany,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+105,Tobias Werner,Midfielder,Germany,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+106,Jan Moravek,Midfielder,Czech Republic,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+107,Andreas Ottl,Midfielder,Germany,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+108,Androo Hahn,Midfielder,Germany,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+109,DongWon Ji,Midfielder,South Korea,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+110,Erik Thommy,Midfielder,Germany,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+111,Alexander Esswein,Forward,Germany,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+112,Arkadiusz Milik,Forward,Poland,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+113,Halil Altintop,Forward,Turkey,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+114,Arif Ekin,Forward,Germany,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+115,Sascha Moolders,Forward,Germany,Inter,Germany,SGL arena,Markus Weinzierl
+116,Bajram Nebihi,Forward,Germany,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+117,Raul Bobadilla,Forward,Argentina,FC Augsburg,Germany,SGL arena,Markus Weinzierl
+118,Jaroslav Drobny,Goalkeeper,Czech Republic,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+119,Renoo Adler,Goalkeeper,Germany,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+120,Sven Neuhaus,Goalkeeper,Germany,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+121,Florian Stritzel,Goalkeeper,Germany,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+122,Dennis Diekmeier,Defender,Germany,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+123,Michael Mancienne,Defender,England,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+124,Heiko Westermann,Defender,Germany,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+125,Johan Djourou,Defender,Switzerland,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+126,Lasse Sobiech,Defender,Germany,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+127,Zhi Gin Lam,Defender,Germany,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+128,Slobodan Rajkovic,Defender,Serbia,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+129,Jonathan Glao Tah,Defender,Germany,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+130,Marcell Jansen,Defender,Germany,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+131,Tomoos Rincoon,Midfielder,Venezuela,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+132,Hakan Calhanoglu,Midfielder,Turkey,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+133,Ivo Ilicevic,Midfielder,Croatia,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+134,Milan Badelj,Midfielder,Croatia,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+135,Tolgay Arslan,Midfielder,Germany,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+136,Petr Jiracek,Midfielder,Czech Republic,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+137,Maximilian Beister,Midfielder,Germany,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+138,Rafael van der Vaart,Midfielder,Netherlands,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+139,Kerem Demirbay,Midfielder,Germany,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+140,Matti Steinmann,Midfielder,Germany,Inter,Germany,Imtech Arena,Bert van Marwijk
+141,Valmir Nafiu,Midfielder,Macedonia,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+142,Robert Tesche,Midfielder,Germany,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+143,Ouasim Bouy,Midfielder,Netherlands,Inter,Germany,Imtech Arena,Bert van Marwijk
+144,Jacques Zoua Daogari,Forward,Cameroon,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+145,PierreMichel Lasogga,Forward,Germany,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+146,Ola John,Forward,Netherlands,Hamburger SV,Germany,Imtech Arena,Bert van Marwijk
+147,Oliver Baumann,Goalkeeper,Germany,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+148,Daniel Batz,Goalkeeper,Germany,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+149,Alexander Schwolow,Goalkeeper,Germany,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+150,Pavel Krmas,Defender,Czech Republic,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+151,Fallou Diagne,Defender,Senegal,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+152,Christopher Jullien,Defender,France,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+153,Vegar Hedenstad,Defender,Norway,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+154,Mensur Mujdza,Defender,Bosnia and Herzegovina,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+155,Oliver Sorg,Defender,Germany,Inter,Germany,MAGE SOLAR Stadion ,Christian Streich
+156,Matthias Ginter,Defender,Germany,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+157,Christian Goonter,Defender,Germany,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+158,Immanuel Hoohn,Defender,Germany,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+159,Tim Schraml,Defender,Germany,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+160,Nicolai Lorenzoni,Defender,Germany,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+161,Gelson Tavares Fernandes,Midfielder,Switzerland,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+162,Vaclav Pilar,Midfielder,Czech Republic,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+163,Hendrick Zuck,Midfielder,Germany,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+164,Jonathan Schmid,Midfielder,France,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+165,Francis Coquelin,Midfielder,France,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+166,Julian Schuster,Midfielder,Germany,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+167,Nicolas Hoofler,Midfielder,Germany,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+168,Tim Albutat,Midfielder,Germany,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+169,Karim Guoodoo,Midfielder,Slovakia,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+170,Felix Klaus,Midfielder,Germany,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+171,Sebastian Kerk,Midfielder,Germany,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+172,Caleb Stanko,Midfielder,USA,Inter,Germany,MAGE SOLAR Stadion ,Christian Streich
+173,CharlesElie Laproovotte,Midfielder,France,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+174,Vladimir Darida,Midfielder,Czech Republic,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+175,Mike Hanke,Forward,Germany,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+176,Admir Mehmedi,Forward,Switzerland,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+177,Marco Terrazzino,Forward,Germany,Inter,Germany,MAGE SOLAR Stadion ,Christian Streich
+178,Sebastian Freis,Forward,Germany,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+179,Philipp Zulechner,Forward,Austria,SC Freiburg,Germany,MAGE SOLAR Stadion ,Christian Streich
+180,Raphael Schoofer,Goalkeeper,Germany,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+181,Patrick Rakovsky,Goalkeeper,Germany,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+182,Benjamin Uphoff,Goalkeeper,Germany,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+183,Alexander Stephan,Goalkeeper,Germany,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+184,Emanuel Pogatetz,Defender,Austria,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+185,Per Nilsson,Defender,Sweden,1.FC Noooornberg,Germany,Grundig Stadion-*,Gertjan Verbeek
+186,Marcos Antonio Elias Santos,Defender,Brazil,1.FC Noooornberg,Germany,Grundig Stadion-*,Gertjan Verbeek
+187,Martin Angha,Defender,Switzerland,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+188,Marvin Plattenhardt,Defender,Germany,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+189,Berkay Tolga Dabanli,Defender,Germany,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+190,Javier Pinola,Defender,Argentina,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+191,Timothy Chandler,Defender,USA,1.FC Noooornberg,Germany,Grundig Stadion-*,Gertjan Verbeek
+192,Makoto Hasebe,Midfielder,Japan,1.FC Noooornberg,Germany,Grundig Stadion-*,Gertjan Verbeek
+193,Hanno Balitsch,Midfielder,Germany,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+194,Markus Feulner,Midfielder,Germany,1.FC Noooornberg,Germany,Grundig Stadion-*,Gertjan Verbeek
+195,Timo Gebhart,Midfielder,Germany,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+196,Hiroshi Kiyotake,Midfielder,Japan,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+197,Robert Mak,Midfielder,Slovakia,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+198,Niklas Stark,Midfielder,Germany,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+199,Mike Frantz,Midfielder,Germany,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+200,Adam Hlousek,Midfielder,Czech Republic,1.FC Noooornberg,Germany,Grundig Stadion-*,Gertjan Verbeek
+201,Sebastian Goortner,Midfielder,Germany,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+202,Ondrej Petrook,Midfielder,Czech Republic,1.FC Noooornberg,Germany,Grundig Stadion-*,Gertjan Verbeek
+203,Josoo Campaooa,Midfielder,Spain,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+204,Mariusz Stepinski,Forward,Poland,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+205,Tomas Pekhart,Forward,Czech Republic,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+206,Daniel Ginczek,Forward,Germany,1.FC Noooornberg,Germany,Grundig Stadion-*,Gertjan Verbeek
+207,Josip Drmic,Forward,Switzerland,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+208,AntonioMirko Colak,Forward,Germany,1.FC Noooornberg,Germany,Grundig Stadion,Gertjan Verbeek
+209,Ralf Foohrmann,Goalkeeper,Germany,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+210,Timo Hildebrand,Goalkeeper,Germany,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+211,Tim Hoogland,Defender,Germany,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+212,Benedikt Hoowedes,Defender,Germany,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+213,Felipe Augusto Santana,Defender,Brazil,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+214,Sead Kolasinac,Defender,Bosnia and Herzegovina,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+215,Kyriakos Papadopoulos,Defender,Greece,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+216,Atsuto Uchida,Defender,Japan,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+217,Christian Fuchs,Defender,Austria,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+218,Kaan Ayhan,Defender,Turkey,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+219,Joel Matip,Defender,Cameroon,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+220,Dennis Aogo,Defender,Germany,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+221,Marcel Sobottka,Defender,Germany,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+222,Philipp Max,Defender,Germany,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+223,Max Meyer,Midfielder,Germany,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+224,Leon Goretzka,Midfielder,Germany,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+225,Julian Draxler,Midfielder,Germany,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+226,Christian Clemens,Midfielder,Germany,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+227,Marco Hooger,Midfielder,Germany,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+228,Jefferson Farfoon,Midfielder,Peru,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+229,Renoo Klingenburg,Midfielder,Germany,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+230,Roman Neustoodter,Midfielder,Germany,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+231,Anthony Annan,Midfielder,Ghana,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+232,Jan Kirchhoff,Midfielder,Germany,Inter,Germany,Veltins Arena,Jens Keller
+233,Robert Leipertz,Midfielder,Germany,FC Schalke 04,Germany,Veltins Arena,Walter Mazzarri
+234,KevinPrince Boateng,Midfielder,Ghana,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+235,Chinedu Obasi,Forward,Nigeria,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+236,KlaasJan Huntelaar,Forward,Netherlands,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+237,Adoom Szalai,Forward,Hungary,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+238,Gerald Asamoah,Forward,Germany,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+239,Donis Avdijaj,Forward,Germany,FC Schalke 04,Germany,Veltins Arena,Jens Keller
+240,Manuel Neuer,Goalkeeper,Germany,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+241,Tom Starke,Goalkeeper,Germany,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+242,Lukas Raeder,Goalkeeper,Germany,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+243,Dante Bonfim Costa Santos,Defender,Brazil,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+244,Daniel van Buyten,Defender,Belgium,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+245,Marcio Rafael Ferreira de Souza,Defender,Brazil,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+246,Jerome Boateng,Defender,Germany,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+247,Philipp Lahm,Defender,Germany,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+248,Diego Contento,Defender,Germany,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+249,David Alaba,Defender,Austria,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+250,Holger Badstuber,Defender,Germany,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+251,Ylli Sallahi,Defender,Austria,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+252,Thiago Alcoontara do Nascimento,Midfielder,Spain,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+253,Franck Riboory,Midfielder,France,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+254,Javier Martoonez Aguinaga,Midfielder,Spain,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+255,Arjen Robben,Midfielder,Netherlands,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+256,Xherdan Shaqiri,Midfielder,Switzerland,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+257,Mario Gootze,Midfielder,Germany,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+258,Mitchell Weiser,Midfielder,Germany,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+259,Thomas Mooller,Midfielder,Germany,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+260,Bastian Schweinsteiger,Midfielder,Germany,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+261,PierreEmile Hoojbjerg,Midfielder,Denmark,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+262,Toni Kroos,Midfielder,Germany,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+263,Julian Green,Midfielder,Germany,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+264,Mario Mandzukic,Forward,Croatia,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+265,Claudio Pizarro,Forward,Peru,FC Bayern Moooonchen,Germany,Allianz Arena,Pep Guardiola
+266,Patrick Weihrauch,Forward,Germany,Inter,Germany,Allianz Arena,Pep Guardiola
+267,Loris Karius,Goalkeeper,Germany,1. FSV Mainz 05,Germany,Coface Arena,Thomas Tuchel
+268,Christian Wetklo,Goalkeeper,Germany,1. FSV Mainz 05,Germany,Coface Arena,Thomas Tuchel
+269,Heinz Mooller,Goalkeeper,Germany,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+270,Christian Mathenia,Goalkeeper,Germany,1. FSV Mainz 05,Germany,Coface Arena,Thomas Tuchel
+271,Dario Kresic,Goalkeeper,Croatia,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+272,JooHo Park,Defender,South Korea,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+273,Bo Svensson,Defender,Denmark,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+274,Zdenek Pospech,Defender,Czech Republic,1. FSV Mainz 05,Germany,Coface Arena,Thomas Tuchel
+275,Nikolce Noveski,Defender,Macedonia,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+276,Stefan Bell,Defender,Germany,1. FSV Mainz 05,Germany,Coface Arena,Thomas Tuchel
+277,Junior Enrique Diaz Campbell,Defender,Costa Rica,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+278,Niko Bungert,Defender,Germany,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+279,Malik Fathi,Defender,Germany,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+280,Julian Koch,Defender,Germany,1. FSV Mainz 05,Germany,Coface Arena,Thomas Tuchel
+281,JaCheol Koo,Midfielder,South Korea,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+282,Benedikt Saller,Midfielder,Germany,Inter,Germany,Coface Arena,Thomas Tuchel
+283,Johannes Geis,Midfielder,Germany,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+284,Niki Zimling,Midfielder,Denmark,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+285,Christoph Moritz,Midfielder,Germany,1. FSV Mainz 05,Germany,Coface Arena,Thomas Tuchel
+286,Yunus Malli,Midfielder,Germany,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+287,Julian Baumgartlinger,Midfielder,Austria,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+288,Elkin Soto,Midfielder,Columbia,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+289,Nicolai Mooller,Midfielder,Germany,1. FSV Mainz 05,Germany,Coface Arena,Thomas Tuchel
+290,Todor Nedelev,Midfielder,Bulgaria,1. FSV Mainz 05,Germany,Coface Arena,Thomas Tuchel
+291,Sebastian Polter,Forward,Germany,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+292,Eric Maxim ChoupoMoting,Forward,Cameroon,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+293,Dani Schahin,Forward,Germany,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+294,Shinji Okazaki,Forward,Japan,1. FSV Mainz 05,Germany,Coface Arena,Thomas Tuchel
+295,Shawn Parker,Forward,Germany,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+296,Petar Sliskovic,Forward,Croatia,1. FSV Mainz 05,Germany,Coface Arena-*,Thomas Tuchel
+297,Marjan Petkovic,Goalkeeper,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+298,Daniel Davari,Goalkeeper,Iran,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+299,Benjamin Later,Goalkeeper,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+300,Ermin Bicakcic,Defender,Bosnia and Herzegovina,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+301,Matthias Henn,Defender,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+302,Benjamin Kessel,Defender,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+303,Deniz Dogan,Defender,Turkey,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+304,Ken Reichel,Defender,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+305,Jan Washausen,Defender,Germany,Inter,Germany,EintrachtStadion,Torsten Lieberknecht
+306,Marcel Correia,Defender,Portugal,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+307,Omar Elabdellaoui,Defender,Norway,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+308,Karim Bellarabi,Midfielder,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+309,Damir Vrancic,Midfielder,Bosnia and Herzegovina,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+310,Mirko Boland,Midfielder,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+311,Jan Hochscheidt,Midfielder,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+312,Norman Theuerkauf,Midfielder,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+313,Kevin Kratz,Midfielder,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+314,Timo Perthel,Midfielder,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+315,Gianluca Korte,Midfielder,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+316,Marc Pfitzner,Midfielder,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+317,Marco Caligiuri,Midfielder,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+318,Salim Khelifi,Midfielder,Switzerland,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+319,Orhan Ademi,Forward,Switzerland,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+320,Domi Kumbela,Forward,Congo DR,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+321,Havard Nielsen,Forward,Norway,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+322,Torsten Oehrl,Forward,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+323,Jonas ErwigDrooppel,Forward,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+324,Dennis Kruppke,Forward,Germany,Eintracht Braunschweig,Germany,EintrachtStadion,Torsten Lieberknecht
+325,Thomas Kraft,Goalkeeper,Germany,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+326,Sascha Burchert,Goalkeeper,Germany,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+327,Marius Gersbeck,Goalkeeper,Germany,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+328,Philip Sprint,Goalkeeper,Germany,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+329,Rune Almenning Jarstein,Goalkeeper,Norway,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+330,Peter Pekarook,Defender,Slovakia,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+331,Levan Kobiashvili,Defender,Georgia,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+332,Maik Franz,Defender,Germany,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+333,Christoph Janker,Defender,Germany,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+334,Sebastian Langkamp,Defender,Germany,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+335,Johannes van den Bergh,Defender,Germany,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+336,John Anthony Brooks,Defender,USA,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+337,Fabian Lustenberger,Defender,Switzerland,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+338,Fabian Holland,Defender,Germany,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+339,Tolga Cigerci,Midfielder,Germany,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+340,Per Skjelbred,Midfielder,Norway,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+341,Nico Schulz,Midfielder,Germany,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+342,Hajime Hosogai,Midfielder,Japan,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+343,Marcel Ndjeng,Midfielder,Cameroon,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+344,Alexander Baumjohann,Midfielder,Germany,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+345,oonis BenHatira,Midfielder,Tunisia,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+346,Ronny Furtado de Araoojo,Midfielder,Brazil,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+347,Peter Niemeyer,Midfielder,Germany,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+348,Peer Kluge,Midfielder,Germany,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+349,Hany Mukhtar,Midfielder,Germany,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+350,Sami Allagui,Forward,Tunisia,Hertha Berlin,Germany,Olympiastadion,Walter Mazzarri
+351,Adrioon Ramos,Forward,Columbia,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+352,Sandro Wagner,Forward,Germany,Hertha Berlin,Germany,Olympiastadion,Jos Luhukay
+353,RonRobert Zieler,Goalkeeper,Germany,Inter,Germany,HDI Arena,Tayfun Korkut
+354,Markus Miller,Goalkeeper,Germany,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+355,Konstantin Fuhry,Goalkeeper,Germany,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+356,Hiroki Sakai,Defender,Japan,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+357,Salif Sanoo,Defender,Senegal,Hannover 96,Germany,HDI Arena,Walter Mazzarri
+358,Steven Cherundolo,Defender,USA,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+359,Soobastien Pocognoli,Defender,Belgium,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+360,Christian Schulz,Defender,Germany,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+361,Felipe Trevizan Martins,Defender,Brazil,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+362,Christopher Avevor,Defender,Germany,Inter,Germany,HDI Arena,Tayfun Korkut
+363,Christian Pander,Defender,Germany,Inter,Germany,HDI Arena,Tayfun Korkut
+364,Marcelo Antonio Guedes Filho,Defender,Brazil,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+365,Frantisek Rajtoral,Defender,Czech Republic,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+366,Leon Andreasen,Midfielder,Denmark,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+367,Edgar Prib,Midfielder,Germany,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+368,Manuel Schmiedebach,Midfielder,Germany,Inter,Germany,HDI Arena,Tayfun Korkut
+369,Szabolcs Huszti,Midfielder,Hungary,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+370,Andre Hoffmann,Midfielder,Germany,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+371,Lars Stindl,Midfielder,Germany,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+372,Leonardo Bittencourt,Midfielder,Germany,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+373,Yannik Schulze,Midfielder,Germany,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+374,Tim Dierooen,Midfielder,Germany,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+375,Artur Sobiech,Forward,Poland,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+376,Didier Ya Konan,Forward,Coote d'Ivoire,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+377,Jan Schlaudraff,Forward,Germany,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+378,Mame Biram Diouf,Forward,Senegal,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+379,Almir Kasumovic,Forward,Bosnia and Herzegovina,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+380,Valmir Sulejmani,Forward,Germany,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+381,Artjoms Rudnevs,Forward,Latvia,Hannover 96,Germany,HDI Arena,Tayfun Korkut
+382,Kevin Trapp,Goalkeeper,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+383,Felix Wiedwald,Goalkeeper,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+384,Aykut oozer,Goalkeeper,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+385,Marco Aulbach,Goalkeeper,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+386,Carlos Zambrano,Defender,Peru,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+387,Bastian Oczipka,Defender,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+388,Constant Djakpa,Defender,Coote d'Ivoire,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+389,Stefano Celozzi,Defender,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+390,Anderson Soares de Oliveira,Defender,Brazil,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+391,Sebastian Jung,Defender,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+392,Alexander Hien,Defender,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+393,Erik Wille,Defender,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+394,MarcOliver Kempf,Defender,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+395,Alexander Madlung,Defender,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+396,Tobias Weis,Midfielder,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+397,Tranquillo Barnetta,Midfielder,Switzerland,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+398,Marco Russ,Midfielder,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+399,Jan Rosenthal,Midfielder,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+400,Takashi Inui,Midfielder,Japan,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+401,Martin Lanig,Midfielder,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+402,Alexander Meier,Midfielder,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+403,Stefan Aigner,Midfielder,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+404,Stephan Schroock,Midfielder,Philippines,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+405,Johannes Flum,Midfielder,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+406,Sebastian Rode,Midfielder,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+407,Marc Stendera,Midfielder,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+408,Pirmin Schwegler,Midfielder,Switzerland,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+409,Sonny Kittel,Midfielder,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+410,Vaclav Kadlec,Forward,Czech Republic,Inter,Germany,Commerzbank Arena,Armin Veh
+411,Luca Waldschmidt,Forward,Germany,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+412,Jose Luis Mato Sanmartoon,Forward,Spain,Eintracht Frankfurt,Germany,Commerzbank Arena,Armin Veh
+413,Sven Ulreich,Goalkeeper,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+414,Thorsten Kirschbaum,Goalkeeper,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+415,Kevin Mooller,Goalkeeper,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+416,Odisseas Vlachodimos,Goalkeeper,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Walter Mazzarri
+417,Karim Haggui,Defender,Tunisia,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+418,Gotoku Sakai,Defender,Japan,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+419,Daniel Schwaab,Defender,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+420,Georg Niedermeier,Defender,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+421,Arthur Boka,Defender,Coote d'Ivoire,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+422,Antonio Roodiger,Defender,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+423,Konstantin Rausch,Defender,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+424,Tim Leibold,Defender,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+425,Martin Harnik,Midfielder,Austria,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+426,Moritz Leitner,Midfielder,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+427,Daniel Didavi,Midfielder,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+428,Patrick Funk,Midfielder,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+429,Marco Rojas,Midfielder,New Zealand,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+430,Ibrahima Traoroo,Midfielder,Guinea,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+431,Christian Gentner,Midfielder,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+432,Sercan Sararer,Midfielder,Turkey,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+433,Rani Khedira,Midfielder,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+434,Alexandru Maxim,Midfielder,Romania,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+435,Robin Yalcin,Midfielder,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+436,Carlos Armando Gruezo,Midfielder,Ecuador,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+437,Vedad Ibisevic,Forward,Bosnia and Herzegovina,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+438,Claudemir Jeronimo Barreto,Forward,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+439,Mohammed Abdellaoue,Forward,Norway,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+440,Timo Werner,Forward,Germany,VfB Stuttgart,Germany,MercedesBenz Arena,Thomas Schneider
+441,Bernd Leno,Goalkeeper,Germany,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+442,David Yelldell,Goalkeeper,USA,Inter,Germany,BayArena,Sami Hyypioooo
+443,Androos Palop,Goalkeeper,Spain,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+444,Niklas Lomb,Goalkeeper,Germany,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+445,Emre Can,Defender,Germany,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+446,Konstantinos Stafylidis,Defender,Greece,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+447,Philipp Wollscheid,Defender,Germany,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+448,Emir Spahic,Defender,Bosnia and Herzegovina,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+449,Sebastian Boenisch,Defender,Poland,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+450,oomer Toprak,Defender,Turkey,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+451,Giulio Donati,Defender,Italy,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+452,Roberto Hilbert,Defender,Germany,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+453,Malcolm Cacutalua,Defender,Germany,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+454,Androos Guardado,Defender,Mexico,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+455,Stefan Reinartz,Midfielder,Germany,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+456,Simon Rolfes,Midfielder,Germany,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+457,Lars Bender,Midfielder,Germany,Inter,Germany,BayArena,Sami Hyypioooo
+458,Jens Hegeler,Midfielder,Germany,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+459,Levin ooztunali,Midfielder,Germany,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+460,Sidney Sam,Midfielder,Germany,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+461,Robbie Kruse,Midfielder,Australia,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+462,Gonzalo Castro,Midfielder,Germany,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+463,Jonas Meffert,Midfielder,Germany,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+464,Julian Brandt,Midfielder,Germany,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+465,Eren Derdiyok,Forward,Switzerland,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+466,HeungMin Son,Forward,South Korea,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+467,Stefan Kieooling,Forward,Germany,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+468,SeungWoo Ryu,Forward,South Korea,Bayer 04 Leverkusen,Germany,BayArena,Sami Hyypioooo
+469,Jens Grahl,Goalkeeper,Germany,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+470,Tim Paterok,Goalkeeper,Germany,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+471,Koen Casteels,Goalkeeper,Belgium,Inter,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+472,Alexander Stolz,Goalkeeper,Germany,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+473,Andreas Beck,Defender,Germany,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+474,Stefan Thesker,Defender,Germany,Inter,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+475,Fabian Johnson,Defender,USA,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+476,David Abraham,Defender,Argentina,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+477,Kevin Akpoguma,Defender,Germany,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+478,Patrick Schorr,Defender,Germany,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+479,Niklas Soole,Defender,Germany,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+480,Edson Braafheid,Defender,Netherlands,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+481,Jannik Vestergaard,Defender,Denmark,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+482,Robin Szarka,Defender,Germany,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+483,Jeremy Toljan,Defender,Germany,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+484,Sebastian Rudy,Midfielder,Germany,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+485,Boris Vukcevic,Midfielder,Germany,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+486,Eugen Polanski,Midfielder,Poland,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+487,Roberto Firmino Barbosa de Oliveira,Midfielder,Brazil,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+488,Tobias Strobl,Midfielder,Germany,Inter,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+489,Ahmed Sassi,Midfielder,Tunisia,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+490,Sejad Salihovic,Midfielder,Bosnia and Herzegovina,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+491,Tarik Elyounoussi,Midfielder,Norway,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+492,Jiloan Hamad,Midfielder,Sweden,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+493,Kai Herdling,Midfielder,Germany,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+494,Bruno dos Santos Nazario,Midfielder,Brazil,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+495,Sven Schipplock,Forward,Germany,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+496,Anthony Modeste,Forward,France,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+497,Kevin Volland,Forward,Germany,Inter,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+498,Kenan Karaman,Forward,Turkey,1899 Hoffenheim,Germany,WIRSOL RheinNeckarArena,Markus Gisdol
+499,MarcAndroo ter Stegen,Goalkeeper,Germany,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+500,Janis Blaswich,Goalkeeper,Germany,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+501,Christofer Heimeroth,Goalkeeper,Germany,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+502,Filip Daems,Defender,Belgium,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+503,Roel Brouwers,Defender,Netherlands,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+504,Alvaro Dominguez Soto,Defender,Spain,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+505,Oscar Wendt,Defender,Sweden,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+506,Tony Jantschke,Defender,Germany,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+507,Martin Stranzl,Defender,Austria,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+508,Julian Korb,Defender,Germany,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+509,Nico Brandenburger,Defender,Germany,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+510,Joel Mero,Defender,Finland,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+511,Patrick Herrmann,Midfielder,Germany,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+512,Lukas Rupp,Midfielder,Germany,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+513,Thorben Marx,Midfielder,Germany,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+514,Havard Nordtveit,Midfielder,Norway,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+515,Juan Arango,Midfielder,Venezuela,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+516,Christoph Kramer,Midfielder,Germany,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+517,Amin Younes,Midfielder,Germany,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+518,Granit Xhaka,Midfielder,Switzerland,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+519,Mahmoud Dahoud,Midfielder,Syria,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+520,Raffael Caetano de Araoojo,Forward,Brazil,Inter,Germany,Borussia Park,Lucien Favre
+521,Max Kruse,Forward,Germany,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+522,Peniel Kokou Mlapa,Forward,Germany,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+523,Branimir Hrgota,Forward,Sweden,Borussia Moooonchengladbach,Germany,Borussia Park,Lucien Favre
+524,Kelvin Davis,Goalkeeper,England,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+525,Nathaniel Clyne,Defender,England,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+526,Maya Yoshida,Defender,Japan,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+527,Morgan Schneiderlin,Midfielder,France,Inter,England,St. Mary's Stadium,Mauricio Pochettino
+528,Dejan Lovren,Defender,Croatia,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+529,Jose Fonte,Defender,Portugal,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+530,Rickie Lambert,Forward,England,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+531,Steven Davis,Midfielder,Northern Ireland,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+532,Jay Rodriguez,Forward,England,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+533,Gastoon Ramoorez,Midfielder,Uruguay,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+534,Victor Wanyama,Midfielder,Kenya,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+535,Jack Cork,Midfielder,England,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+536,Adam Lallana,Midfielder,England,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+537,Guly,Midfielder,Brazil,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+538,Jos Hooiveld,Defender,Netherlands,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+539,Artur Boruc,Goalkeeper,Poland,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+540,Jack Stephens,Defender,England,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+541,Jonathan Forte,Forward,Barbados,Southampton,England,St. Mary's Stadium,Mauricio Pochettino
+542,Bradley Jones,Goalkeeper,Australia,Liverpool,England,Anfield,Brendan Rodgers
+543,Glen Johnson,Defender,England,Liverpool,England,Anfield,Brendan Rodgers
+544,Josoo Enrique,Defender,Spain,Liverpool,England,Anfield,Brendan Rodgers
+545,Kolo Touroo,Defender,xxx,Liverpool,England,Anfield,Brendan Rodgers
+546,Daniel Agger,Defender,Denmark,Liverpool,England,Anfield,Brendan Rodgers
+547,Luis Suarez,Forward,Uruguay,Liverpool,England,Anfield,Brendan Rodgers
+548,Steven Gerrard,Midfielder,England,Liverpool,England,Anfield,Brendan Rodgers
+549,Iago Aspas,Forward,Spain,Liverpool,England,Anfield,Brendan Rodgers
+550,Victor Moses,Midfielder,Nigeria,Liverpool,England,Anfield,Brendan Rodgers
+551,Jordan Henderson,Midfielder,England,Liverpool,England,Anfield,Brendan Rodgers
+552,Daniel Sturridge,Forward,England,Liverpool,England,Anfield,Brendan Rodgers
+553,Sebastioon Coates,Defender,Uruguay,Liverpool,England,Anfield,Brendan Rodgers
+554,Mamadou Sakho,Defender,France,Inter,England,Anfield,Brendan Rodgers
+555,Aly Cissokho,Defender,France,Liverpool,England,Anfield,Brendan Rodgers
+556,Lucas Leiva,Midfielder,Brazil,Liverpool,England,Anfield,Brendan Rodgers
+557,Simon Mignolet,Goalkeeper,Belgium,Liverpool,England,Anfield,Brendan Rodgers
+558,Joe Allen,Midfielder,Wales,Liverpool,England,Anfield,Brendan Rodgers
+559,Martin Kelly,Defender,England,Liverpool,England,Anfield,Brendan Rodgers
+560,Martin Skrtel,Defender,Slovakia,Liverpool,England,Anfield,Brendan Rodgers
+561,John Ruddy,Goalkeeper,England,Norwich,England,Carrow Road,Chris Hughton
+562,Russell Martin,Defender,Scotland,Norwich,England,Carrow Road,Chris Hughton
+563,Steven Whittaker,Defender,Scotland,Inter,England,Carrow Road,Chris Hughton
+564,Bradley Johnson,Midfielder,England,Norwich,England,Carrow Road,Walter Mazzarri
+565,Soobastien Bassong,Defender,Cameroon,Norwich,England,Carrow Road,Chris Hughton
+566,Michael Turner,Defender,England,Norwich,England,Carrow Road,Chris Hughton
+567,Robert Snodgrass,Midfielder,Scotland,Norwich,England,Carrow Road,Chris Hughton
+568,Jonny Howson,Midfielder,England,Norwich,England,Carrow Road,Chris Hughton
+569,Ricky van Wolfswinkel,Forward,Netherlands,Norwich,England,Carrow Road,Chris Hughton
+570,Leroy Fer,Midfielder,Netherlands,Norwich,England,Carrow Road,Chris Hughton
+571,Gary Hooper,Forward,England,Norwich,England,Carrow Road,Chris Hughton
+572,Anthony Pilkington,Midfielder,Ireland,Norwich,England,Carrow Road,Chris Hughton
+573,Mark Bunn,Goalkeeper,England,Norwich,England,Carrow Road,Chris Hughton
+574,Wes Hoolahan,Midfielder,Ireland,Norwich,England,Carrow Road,Walter Mazzarri
+575,Jonoos Gutioorrez,Midfielder,Argentina,Norwich,England,Carrow Road,Chris Hughton
+576,Johan Elmander,Forward,Sweden,Norwich,England,Carrow Road,Chris Hughton
+577,Elliott Bennett,Midfielder,England,Norwich,England,Carrow Road,Chris Hughton
+578,Luciano Becchio,Forward,Argentina,Norwich,England,Carrow Road,Chris Hughton
+579,Carlo Nash,Goalkeeper,England,Inter,England,Carrow Road,Chris Hughton
+580,Martin Olsson,Defender,Sweden,Norwich,England,Carrow Road,Chris Hughton
+581,Ryan Bennett,Defender,England,Norwich,England,Carrow Road,Chris Hughton
+582,David Fox,Midfielder,England,Norwich,England,Carrow Road,Chris Hughton
+583,Joseph Yobo,Defender,Nigeria,Norwich,England,Carrow Road,Chris Hughton
+584,Alexander Tettey,Midfielder,Norway,Norwich,England,Carrow Road,Chris Hughton
+585,Allan McGregor,Goalkeeper,Scotland,Hull,England,The KC Stadium,Steve Bruce
+586,Liam Rosenior,Defender,England,Hull,England,The KC Stadium,Steve Bruce
+587,Maynor Figueroa,Defender,Honduras,Hull,England,The KC Stadium,Steve Bruce
+588,Alex Bruce,Defender,Northern Ireland,Hull,England,The KC Stadium,Steve Bruce
+589,James Chester,Defender,England,Hull,England,The KC Stadium,Steve Bruce
+590,Curtis Davies,Defender,England,Hull,England,The KC Stadium,Steve Bruce
+591,David Meyler,Midfielder,Ireland,Inter,England,The KC Stadium,Steve Bruce
+592,Tom Huddlestone,Midfielder,England,Hull,England,The KC Stadium,Steve Bruce
+593,Robert Koren,Midfielder,Slovenia,Hull,England,The KC Stadium,Steve Bruce
+594,Matty Fryatt,Forward,England,Hull,England,The KC Stadium,Steve Bruce
+595,Jake Livermore,Midfielder,England,Hull,England,The KC Stadium,Walter Mazzarri
+596,Paul McShane,Defender,Ireland,Hull,England,The KC Stadium,Steve Bruce
+597,Eldin Jakupovic,Goalkeeper,Switzerland,Hull,England,The KC Stadium,Steve Bruce
+598,Nikica Jelavic,Forward,Croatia,Hull,England,The KC Stadium,Steve Bruce
+599,Joe Dudgeon,Defender,Northern Ireland,Hull,England,The KC Stadium,Steve Bruce
+600,Yannick Sagbo,Forward,xxx,Hull,England,The KC Stadium,Steve Bruce
+601,Shane Long,Forward,Ireland,Hull,England,The KC Stadium,Steve Bruce
+602,Steve Harper,Goalkeeper,England,Hull,England,The KC Stadium,Steve Bruce
+603,Abdoulaye Faye,Defender,Senegal,Hull,England,The KC Stadium,Steve Bruce
+604,Sone Aluko,Forward,Nigeria,Hull,England,The KC Stadium,Steve Bruce
+605,Stephen Quinn,Midfielder,Ireland,Hull,England,The KC Stadium,Steve Bruce
+606,Conor Henderson,Midfielder,Ireland,Hull,England,The KC Stadium,Steve Bruce
+607,Winston Reid,Defender,New Zealand,West Ham,England,Boleyn Ground,Sam Allardyce
+608,George McCartney,Defender,Northern Ireland,West Ham,England,Boleyn Ground,Sam Allardyce
+609,Kevin Nolan,Midfielder,England,West Ham,England,Boleyn Ground,Sam Allardyce
+610,James Tomkins,Defender,England,Inter,England,Boleyn Ground,Sam Allardyce
+611,Matthew Jarvis,Midfielder,England,West Ham,England,Boleyn Ground,Sam Allardyce
+612,Andy Carroll,Forward,England,Inter,England,Boleyn Ground,Sam Allardyce
+613,Jack Collison,Midfielder,Wales,West Ham,England,Boleyn Ground,Sam Allardyce
+614,Ricardo Vaz Te,Forward,Portugal,West Ham,England,Boleyn Ground,Sam Allardyce
+615,Adrioon,Goalkeeper,Spain,West Ham,England,Boleyn Ground,Sam Allardyce
+616,Matthew Taylor,Midfielder,England,West Ham,England,Boleyn Ground,Sam Allardyce
+617,Mark Noble,Midfielder,England,West Ham,England,Boleyn Ground,Sam Allardyce
+618,Joey O'Brien,Defender,Ireland,West Ham,England,Boleyn Ground,Sam Allardyce
+619,Alou Diarra,Midfielder,France,West Ham,England,Boleyn Ground,Sam Allardyce
+620,James Collins,Defender,Wales,West Ham,England,Boleyn Ground,Sam Allardyce
+621,Guy Demel,Defender,xxx,West Ham,England,Boleyn Ground,Sam Allardyce
+622,Mohamed Diamoo,Midfielder,Senegal,West Ham,England,Boleyn Ground,Sam Allardyce
+623,Jussi Jooooskelooinen,Goalkeeper,Finland,West Ham,England,Boleyn Ground,Sam Allardyce
+624,Stewart Downing,Midfielder,England,West Ham,England,Boleyn Ground,Sam Allardyce
+625,Stephen Henderson,Goalkeeper,Ireland,West Ham,England,Boleyn Ground,Sam Allardyce
+626,Joe Cole,Midfielder,England,West Ham,England,Boleyn Ground,Sam Allardyce
+627,Roger Johnson,Defender,England,West Ham,England,Boleyn Ground,Sam Allardyce
+628,Marco Borriello,Forward,Italy,West Ham,England,Boleyn Ground,Sam Allardyce
+629,Antonio Nocerino,Midfielder,Italy,West Ham,England,Boleyn Ground,Sam Allardyce
+630,Pablo Armero,Defender,Colombia,West Ham,England,Boleyn Ground,Sam Allardyce
+631,Tim Krul,Goalkeeper,Netherlands,Newcastle,England,St James' Park,Walter Mazzarri
+632,Fabricio Coloccini,Defender,Argentina,Newcastle,England,St James' Park,Alan Pardew
+633,Davide Santon,Defender,Italy,Newcastle,England,St James' Park,Alan Pardew
+634,Michael Williamson,Defender,England,Newcastle,England,St James' Park,Alan Pardew
+635,Moussa Sissoko,Midfielder,France,Newcastle,England,St James' Park,Alan Pardew
+636,Vurnon Anita,Midfielder,Netherlands,Newcastle,England,St James' Park,Alan Pardew
+637,Papiss Demba Cissoo,Forward,Senegal,Newcastle,England,St James' Park,Alan Pardew
+638,Hatem Ben Arfa,Midfielder,France,Newcastle,England,St James' Park,Alan Pardew
+639,Yoan Gouffran,Forward,France,Newcastle,England,St James' Park,Alan Pardew
+640,Mapou YangaMbiwa,Defender,France,Newcastle-*,England,St James' Park,Alan Pardew
+641,Loooc Remy,Forward,France,Newcastle,England,St James' Park,Alan Pardew
+642,Dan Gosling,Midfielder,England,Newcastle-*,England,St James' Park,Alan Pardew
+643,Ryan Taylor,Defender,England,Inter,England,St James' Park,Alan Pardew
+644,Luuk de Jong,Forward,Netherlands,Newcastle,England,St James' Park,Alan Pardew
+645,Robert Elliot,Goalkeeper,Ireland,Newcastle-*,England,St James' Park,Alan Pardew
+646,Sylvain Marveaux,Midfielder,France,Inter,England,St James' Park,Alan Pardew
+647,Shola Ameobi,Forward,Nigeria,Newcastle,England,St James' Park,Alan Pardew
+648,Cheick Tiotoo,Midfielder,xxx,Newcastle-*,England,St James' Park,Alan Pardew
+649,Gabriel Obertan,Midfielder,France,Newcastle,England,St James' Park,Alan Pardew
+650,Mathieu Debuchy,Defender,France,Newcastle,England,St James' Park,Alan Pardew
+651,Steven Taylor,Defender,England,Newcastle,England,St James' Park,Alan Pardew
+652,Paul Dummett,Defender,Wales,Newcastle,England,St James' Park,Walter Mazzarri
+653,Brad Guzan,Goalkeeper,United States,Aston Villa,England-*,Villa Park,Paul Lambert
+654,Joe Bennett,Defender,England,Aston Villa,England,Villa Park,Paul Lambert
+655,Ron Vlaar,Defender,Netherlands,Aston Villa,England-*,Villa Park,Paul Lambert
+656,Jores Okore,Defender,Denmark,Aston Villa,England-*,Villa Park,Paul Lambert
+657,Ciaran Clark,Defender,Ireland,Aston Villa,England-*,Villa Park,Paul Lambert
+658,Karim El Ahmadi,Midfielder,Morocco,Aston Villa,England-*,Villa Park,Paul Lambert
+659,Nicklas Helenius,Forward,Denmark,Aston Villa,England-*,Villa Park,Paul Lambert
+660,Gabriel Agbonlahor,Forward,England,Aston Villa,England-*,Villa Park,Paul Lambert
+661,Marc Albrighton,Midfielder,England,Aston Villa,England-*,Villa Park,Paul Lambert
+662,Antonio Luna,Defender,Spain,Aston Villa,England,Villa Park,Paul Lambert
+663,Ashley Westwood,Midfielder,England,Aston Villa,England-*,Villa Park,Paul Lambert
+664,Fabian Delph,Midfielder,England,Aston Villa,England-*,Villa Park,Paul Lambert
+665,Chris Herd,Midfielder,Australia,Aston Villa,England-*,Villa Park,Paul Lambert
+666,Yacouba Sylla,Midfielder,Mali,Aston Villa,England-*,Villa Park,Paul Lambert
+667,Christian Benteke,Forward,Belgium,Aston Villa,England-*,Villa Park,Paul Lambert
+668,Ryan Bertrand,Defender,England,Aston Villa,England,Villa Park,Paul Lambert
+669,Aleksandar Tonev,Midfielder,Bulgaria,Aston Villa,England-*,Villa Park,Paul Lambert
+670,Libor Kozook,Forward,Czech Republic,Inter,England,Villa Park,Paul Lambert
+671,Grant Holt,Forward,England,Aston Villa,England-*,Villa Park,Paul Lambert
+672,Matthew Lowton,Defender,England,Aston Villa,England-*,Villa Park,Paul Lambert
+673,Alan Hutton,Defender,Scotland,Aston Villa,England,Villa Park,Paul Lambert
+674,Charles N'Zogbia,Midfielder,France,Aston Villa,England-*,Villa Park,Paul Lambert
+675,Wojciech Szczesny,Goalkeeper,Poland,Arsenal,England,Emirates Stadium,Arsoone Wenger
+676,Bacary Sagna,Defender,France,Arsenal,England,Emirates Stadium,Arsoone Wenger
+677,Per Mertesacker,Defender,Germany,Arsenal,England,Emirates Stadium,Arsoone Wenger
+678,Thomas Vermaelen,Defender,Belgium,Arsenal,England-*,Emirates Stadium,Arsoone Wenger
+679,Laurent Koscielny,Defender,France,Arsenal,England-*,Emirates Stadium,Arsoone Wenger
+680,Tomas Rosicky,Midfielder,Czech Republic,Arsenal,England,Emirates Stadium,Arsoone Wenger
+681,Mikel Arteta,Midfielder,Spain,Arsenal,England-*,Emirates Stadium,Arsoone Wenger
+682,Lukas Podolski,Forward,Poland,Arsenal,England-*,Emirates Stadium,Arsoone Wenger
+683,Mesut oozil,Midfielder,Germany,Arsenal,England,Emirates Stadium,Arsoone Wenger
+684,Olivier Giroud,Forward,France,Arsenal,England,Emirates Stadium,Arsoone Wenger
+685,Emiliano Viviano,Goalkeeper,Italy,Inter,England,Emirates Stadium,Arsoone Wenger
+686,Theo Walcott,Midfielder,England,Arsenal,England,Emirates Stadium,Arsoone Wenger
+687,Aaron Ramsey,Midfielder,Wales,Arsenal,England-*,Emirates Stadium,Arsoone Wenger
+688,Nacho Monreal,Defender,Spain,Arsenal,England,Emirates Stadium,Arsoone Wenger
+689,Santiago Cazorla,Midfielder,Spain,Arsenal,England-*,Emirates Stadium,Arsoone Wenger
+690,Mathieu Flamini,Midfielder,France,Inter,England,Emirates Stadium,Arsoone Wenger
+691,Lukasz Fabianski,Goalkeeper,Poland,Arsenal,England-*,Emirates Stadium,Arsoone Wenger
+692,Nicklas Bendtner,Forward,Denmark,Arsenal,England-*,Emirates Stadium,Arsoone Wenger
+693,Vassiriki Abou Diaby,Midfielder,France,Arsenal,England,Emirates Stadium,Arsoone Wenger
+694,Kieran Gibbs,Defender,England,Arsenal,England,Emirates Stadium,Arsoone Wenger
+695,Kim Koollstroom,Midfielder,Sweden,Arsenal,England,Emirates Stadium,Arsoone Wenger
+696,Johan Djourou,Defender,Switzerland,Arsenal,England-*,Emirates Stadium,Arsoone Wenger
+697,David de Gea,Goalkeeper,Spain,Man Utd,England,Old Trafford,David Moyes
+698,Rafael,Defender,Brazil,Man Utd,England,Old Trafford,David Moyes
+699,Patrice Evra,Defender,France,Man Utd,England,Old Trafford,David Moyes
+700,Rio Ferdinand,Defender,England,Man Utd,England,Old Trafford,David Moyes
+701,Jonny Evans,Defender,Northern Ireland,Man Utd,England,Old Trafford,David Moyes
+702,Juan Mata,Midfielder,Spain,Man Utd,England,Old Trafford,David Moyes
+703,Wayne Rooney,Forward,England,Man Utd,England,Old Trafford,David Moyes
+704,Ryan Giggs,Midfielder,Wales,Man Utd,England,Old Trafford,David Moyes
+705,Chris Smalling,Defender,England,Man Utd,England,Old Trafford,David Moyes
+706,Anders Lindegaard,Goalkeeper,Denmark,Man Utd,England,Old Trafford,David Moyes
+707,Javier Hernoondez,Forward,Mexico,Man Utd,England,Old Trafford,David Moyes
+708,Nemanja Vidic,Defender,Serbia,Man Utd,England,Old Trafford,David Moyes
+709,Michael Carrick,Midfielder,England,Man Utd,England,Old Trafford,Walter Mazzarri
+710,Nani,Midfielder,Portugal,Inter,England,Old Trafford,David Moyes
+711,Ashley Young,Midfielder,England,Man Utd,England,Old Trafford,David Moyes
+712,Danny Welbeck,Forward,England,Man Utd,England,Old Trafford,David Moyes
+713,Robin van Persie,Forward,Netherlands,Man Utd,England,Old Trafford,David Moyes
+714,Tom Cleverley,Midfielder,England,Man Utd,England,Old Trafford,David Moyes
+715,Darren Fletcher,Midfielder,Scotland,Man Utd,England,Old Trafford,David Moyes
+716,Luis Antonio Valencia,Midfielder,Ecuador,Man Utd,England,Old Trafford,David Moyes
+717,Shinji Kagawa,Midfielder,Japan,Inter,England,Old Trafford,David Moyes
+718,Alexander Boottner,Defender,Netherlands,Man Utd,England,Old Trafford,David Moyes
+719,Marouane Fellaini,Midfielder,Belgium,Man Utd,England,Old Trafford,David Moyes
+720,Ben Amos,Goalkeeper,England,Man Utd,England,Old Trafford,David Moyes
+721,Julian Speroni,Goalkeeper,Argentina,Crystal Palace,England,Selhurst Park,Tony Pulis
+722,Joel Ward,Defender,England,Crystal Palace,England,Selhurst Park,Tony Pulis
+723,Adrian Mariappa,Defender,Jamaica,Crystal Palace,England,Selhurst Park,Tony Pulis
+724,Jonathan Parr,Defender,Norway,Crystal Palace,England,Selhurst Park,Tony Pulis
+725,Patrick McCarthy,Defender,Ireland,Crystal Palace,England,Selhurst Park,Tony Pulis
+726,Scott Dann,Defender,England,Crystal Palace,England,Selhurst Park,Tony Pulis
+727,Yannick Bolasie,Midfielder,xxx,Crystal Palace,England,Selhurst Park,Tony Pulis
+728,Kagisho Dikgacoi,Midfielder,South Africa,Crystal Palace,England,Selhurst Park,Walter Mazzarri
+729,Owen Garvan,Midfielder,Ireland,Crystal Palace,England,Selhurst Park,Tony Pulis
+730,Thomas Ince,Midfielder,England,Inter,England,Selhurst Park,Tony Pulis
+731,Stuart O'Keefe,Midfielder,England,Crystal Palace,England,Selhurst Park,Tony Pulis
+732,Jerome Thomas,Midfielder,England,Crystal Palace,England,Selhurst Park,Tony Pulis
+733,Mile Jedinak,Midfielder,Australia,Crystal Palace,England,Selhurst Park,Tony Pulis
+734,Dwight Gayle,Forward,England,Crystal Palace,England,Selhurst Park,Tony Pulis
+735,Glenn Murray,Forward,England,Crystal Palace,England,Selhurst Park,Tony Pulis
+736,Aaron Wilbraham,Forward,England,Crystal Palace,England,Selhurst Park,Walter Mazzarri
+737,Daniel Gabbidon,Defender,Wales,Crystal Palace,England,Selhurst Park,Tony Pulis
+738,Dean Moxey,Defender,England,Crystal Palace,England,Selhurst Park,Tony Pulis
+739,Neil Alexander,Goalkeeper,Scotland,Crystal Palace,England,Selhurst Park,Tony Pulis
+740,Wayne Hennessey,Goalkeeper,Wales,Crystal Palace,England,Selhurst Park,Tony Pulis
+741,Damien Delaney,Defender,Ireland,Crystal Palace,England,Selhurst Park,Tony Pulis
+742,Joe Ledley,Midfielder,Wales,Crystal Palace,England,Selhurst Park,Tony Pulis
+743,Marouane Chamakh,Forward,Morocco,Crystal Palace,England,Selhurst Park,Tony Pulis
+744,Cameron Jerome,Forward,England,Crystal Palace,England,Selhurst Park,Tony Pulis
+745,Adloone Guoodioura,Midfielder,Algeria,Crystal Palace,England,Selhurst Park,Tony Pulis
+746,Lewis Price,Goalkeeper,Wales,Crystal Palace,England,Selhurst Park,Tony Pulis
+747,Barry Bannan,Midfielder,Scotland,Crystal Palace,England,Selhurst Park,Tony Pulis
+748,Joel Robles,Goalkeeper,Spain,Everton,England,Goodison Park,Roberto Martinez
+749,Tony Hibbert,Defender,England,Everton,England,Goodison Park,Roberto Martinez
+750,Leighton Baines,Defender,England,Everton,England,Goodison Park,Roberto Martinez
+751,Darron Gibson,Midfielder,Northern Ireland,Everton,England,Goodison Park,Roberto Martinez
+752,Phil Jagielka,Defender,England,Everton,England,Goodison Park,Roberto Martinez
+753,Aiden McGeady,Midfielder,Ireland,Everton,England,Goodison Park,Roberto Martinez
+754,Bryan Oviedo,Defender,Costa Rica,Everton,England,Goodison Park,Roberto Martinez
+755,Arouna Konoo,Forward,xxx,Everton,England,Goodison Park,Roberto Martinez
+756,Kevin Mirallas,Midfielder,Belgium,Everton,England,Goodison Park,Roberto Martinez
+757,Steven Naismith,Forward,Scotland,Everton,England,Goodison Park,Roberto Martinez
+758,Sylvain Distin,Defender,France,Everton,England,Goodison Park,Roberto Martinez
+759,James McCarthy,Midfielder,Ireland,Everton,England,Goodison Park,Roberto Martinez
+760,Gareth Barry,Midfielder,England,Everton,England,Goodison Park,Roberto Martinez
+761,Magaye Gueye,Forward,Senegal,Everton,England,Goodison Park,Roberto Martinez
+762,Leon Osman,Midfielder,England,Everton,England,Goodison Park,Roberto Martinez
+763,Steven Pienaar,Midfielder,South Africa,Everton,England,Goodison Park,Roberto Martinez
+764,Steven Pienaar,Midfielder,South Africa,Everton,England,Goodison Park,Roberto Martinez
+765,Seamus Coleman,Defender,Ireland,Everton,England,Goodison Park,Roberto Martinez
+766,Tim Howard,Goalkeeper,United States,Everton,England,Goodison Park,Roberto Martinez
+767,Lacina Traoroo,Forward,xxx,Everton,England,Goodison Park,Roberto Martinez
+768,Antolin Alcaraz,Defender,Paraguay,Everton,England,Goodison Park,Roberto Martinez
+769,Matooas Donoso,Forward,Chile,Everton,England,Goodison Park,Roberto Martinez
+770,Phillip Bardsley,Defender,Scotland,Sunderland,England,Stadium of Light,Gus Poyet
+771,Andrea Dossena,Defender,Italy,Sunderland,England,Stadium of Light,Gus Poyet
+772,Ki SungYueng,Midfielder,xxx,Sunderland,England,Stadium of Light,Gus Poyet
+773,Wes Brown,Defender,England,Sunderland,England,Stadium of Light,Gus Poyet
+774,Sebastian Larsson,Midfielder,Sweden,Sunderland,England,Stadium of Light,Gus Poyet
+775,Craig Gardner,Midfielder,England,Sunderland,England,Stadium of Light,Gus Poyet
+776,Steven Fletcher,Forward,Scotland,Sunderland,England,Stadium of Light,Gus Poyet
+777,Adam Johnson,Midfielder,England,Sunderland,England,Stadium of Light,Gus Poyet
+778,Ondrej Celustka,Defender,Czech Republic,Sunderland,England,Stadium of Light,Gus Poyet
+779,Jack Colback,Midfielder,England,Sunderland,England,Stadium of Light,Gus Poyet
+780,John O'Shea,Defender,Ireland,Sunderland,England,Stadium of Light,Gus Poyet
+781,Jozy Altidore,Forward,United States,Sunderland,England,Stadium of Light,Gus Poyet
+782,Keiren Westwood,Goalkeeper,Ireland,Sunderland,England,Stadium of Light,Gus Poyet
+783,Emanuele Giaccherini,Midfielder,Italy,Sunderland,England,Stadium of Light,Gus Poyet
+784,Carlos Cuoollar,Defender,Spain,Sunderland,England,Stadium of Light,Gus Poyet
+785,Vito Mannone,Goalkeeper,Italy,Sunderland,England,Stadium of Light,Gus Poyet
+786,Liam Bridcutt,Midfielder,Scotland,Sunderland,England,Stadium of Light,Gus Poyet
+787,Santiago Vergini,Defender,Argentina,Sunderland,England,Stadium of Light,Gus Poyet
+788,Marcos Alonso,Defender,Spain,Sunderland,England,Stadium of Light,Gus Poyet
+789,Valentin Roberge,Defender,France,Sunderland,England,Stadium of Light,Gus Poyet
+790,Ignacio Scocco,Forward,Argentina,Sunderland,England,Stadium of Light,Gus Poyet
+791,Fabio Borini,Forward,Italy,Sunderland,England,Stadium of Light,Gus Poyet
+792,ooscar Ustari,Goalkeeper,Argentina,Sunderland,England,Stadium of Light,Gus Poyet
+793,Lee Cattermole,Midfielder,England,Sunderland,England,Stadium of Light,Gus Poyet
+794,Maarten Stekelenburg,Goalkeeper,Netherlands,Fulham,England,Craven Cottage,Felix Magath
+795,John Arne Riise,Defender,Norway,Fulham,England,Craven Cottage,Felix Magath
+796,Johnny Heitinga,Defender,Netherlands,Fulham,England,Craven Cottage,Felix Magath
+797,Brede Hangeland,Defender,Norway,Fulham,England,Craven Cottage,Felix Magath
+798,William Kvist,Midfielder,Denmark,Fulham,England,Craven Cottage,Felix Magath
+799,Steve Sidwell,Midfielder,England,Fulham,England,Craven Cottage,Felix Magath
+800,Lewis Holtby,Midfielder,Germany,Fulham,England,Craven Cottage,Felix Magath
+801,Alexander Kacaniklic,Midfielder,Sweden,Fulham,England,Craven Cottage,Felix Magath
+802,David Stockdale,Goalkeeper,England,Fulham,England,Craven Cottage,Walter Mazzarri
+803,Giorgos Karagounis,Midfielder,Greece,Fulham,England,Craven Cottage,Felix Magath
+804,Kieran Richardson,Midfielder,England,Fulham,England,Craven Cottage,Felix Magath
+805,Damien Duff,Midfielder,Ireland,Fulham,England,Craven Cottage,Felix Magath
+806,Matthew Briggs,Defender,England,Fulham,England,Craven Cottage,Felix Magath
+807,Kostas Mitroglou,Forward,Greece,Fulham,England,Craven Cottage,Felix Magath
+808,Hugo Rodallega,Forward,Colombia,Fulham,England,Craven Cottage,Felix Magath
+809,Elsad Zverotic,Defender,Montenegro,Fulham,England,Craven Cottage,Felix Magath
+810,Derek Boateng,Midfielder,Ghana,Fulham,England,Craven Cottage,Felix Magath
+811,Ashkan Dejagah,Midfielder,xxx,Fulham,England,Craven Cottage,Felix Magath
+812,Scott Parker,Midfielder,England,Fulham,England,Craven Cottage,Felix Magath
+813,Clint Dempsey,Forward,United States,Inter,England,Craven Cottage,Felix Magath
+814,Fernando Amorebieta,Defender,xxx,Fulham,England,Craven Cottage,Felix Magath
+815,Neil Etheridge,Goalkeeper,Philippines,Fulham,England,Craven Cottage,Felix Magath
+816,Darren Bent,Forward,England,Inter,England,Craven Cottage,Felix Magath
+817,Joe Hart,Goalkeeper,England,Man City,England,Etihad Stadium,Manuel Pellegrini
+818,Micah Richards,Defender,England,Man City,England,Etihad Stadium,Manuel Pellegrini
+819,Vincent Kompany,Defender,Belgium,Man City,England,Etihad Stadium,Manuel Pellegrini
+820,Pablo Zabaleta,Defender,Argentina,Man City,England,Etihad Stadium,Manuel Pellegrini
+821,Joleon Lescott,Defender,England,Man City,England,Etihad Stadium,Manuel Pellegrini
+822,James Milner,Midfielder,England,Man City,England,Etihad Stadium,Manuel Pellegrini
+823,Samir Nasri,Midfielder,France,Man City,England,Etihad Stadium,Manuel Pellegrini
+824,oolvaro Negredo,Forward,Spain,Man City,England,Etihad Stadium,Manuel Pellegrini
+825,Edin Dzeko,Forward,xxx,Man City,England,Etihad Stadium,Manuel Pellegrini
+826,Aleksandar Kolarov,Defender,Serbia,Man City,England,Etihad Stadium,Manuel Pellegrini
+827,Javi Garcooa,Midfielder,Spain,Man City,England,Etihad Stadium,Manuel Pellegrini
+828,Jesoos Navas,Midfielder,Spain,Man City,England,Etihad Stadium,Manuel Pellegrini
+829,Sergio Agooero,Forward,Argentina,Man City,England,Etihad Stadium,Manuel Pellegrini
+830,Jack Rodwell,Midfielder,England,Man City,England,Etihad Stadium,Manuel Pellegrini
+831,David Silva,Midfielder,Spain,Man City,England,Etihad Stadium,Manuel Pellegrini
+832,Gaool Clichy,Defender,France,Inter,England,Etihad Stadium,Manuel Pellegrini
+833,Fernandinho,Midfielder,Brazil,Man City,England,Etihad Stadium,Manuel Pellegrini
+834,Martoon Demichelis,Defender,Argentina,Man City,England,Etihad Stadium,Manuel Pellegrini
+835,Richard Wright,Goalkeeper,England,Man City,England,Etihad Stadium,Manuel Pellegrini
+836,Costel Pantilimon,Goalkeeper,Romania,Man City,England,Etihad Stadium,Manuel Pellegrini
+837,Stevan Jovetic,Forward,Montenegro,Man City,England,Etihad Stadium,Manuel Pellegrini
+838,Dedryck Boyata,Defender,Belgium,Man City,England,Etihad Stadium,Manuel Pellegrini
+839,Yaya Touroo,Midfielder,xxx,Man City,England,Etihad Stadium,Manuel Pellegrini
+840,David Marshall,Goalkeeper,Scotland,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+841,Matthew Connolly,Defender,England,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+842,Andrew Taylor,Defender,England,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+843,Steven Caulker,Defender,England,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+844,Mark Hudson,Defender,England,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+845,Ben Turner,Defender,England,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+846,Peter Whittingham,Midfielder,England,Inter,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+847,Gary Medel,Midfielder,Chile,Cardiff,England-*,Cardiff City Stadium,Ole Gunnar Solskjaer
+848,Kenwyne Jones,Forward,xxx,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+849,Fraizer Campbell,Forward,England,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+850,Kim BoKyung,Midfielder,xxx,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+851,Tommy Smith,Forward,England,Cardiff,England-*,Cardiff City Stadium,Ole Gunnar Solskjaer
+852,Magnus Wolff Eikrem,Midfielder,Norway,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+853,Craig Noone,Midfielder,England,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+854,Aron Gunnarsson,Midfielder,Iceland,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+855,Jordon Mutch,Midfielder,England,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+856,Don Cowie,Midfielder,Scotland,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+857,Joe Mason,Forward,Ireland,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+858,Simon Lappin,Midfielder,Scotland,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+859,Kevin McNaughton,Defender,Scotland,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+860,Cala,Defender,Spain,Cardiff,England-*,Cardiff City Stadium,Ole Gunnar Solskjaer
+861,Koovin ThooophileCatherine,Defender,France,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+862,Joe Lewis,Goalkeeper,England,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+863,Jo Inge Berget,Forward,Norway,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+864,Fabio,Defender,Brazil,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+865,Craig Bellamy,Forward,Wales,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+866,Kadeem Harris,Midfielder,England,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+867,Dave Richards,Goalkeeper,Wales,Cardiff,England,Cardiff City Stadium,Ole Gunnar Solskjaer
+868,Asmir Begovic,Goalkeeper,xxx,Stoke,England,Britannia Stadium,Mark Hughes
+869,Erik Pieters,Defender,Netherlands,Stoke,England,Britannia Stadium,Mark Hughes
+870,Robert Huth,Defender,Germany,Stoke,England,Britannia Stadium,Mark Hughes
+871,Glenn Whelan,Midfielder,Ireland,Stoke,England,Britannia Stadium,Mark Hughes
+872,Wilson Palacios,Midfielder,Honduras,Stoke,England,Britannia Stadium,Mark Hughes
+873,Peter Odemwingie,Forward,Nigeria,Stoke,England,Britannia Stadium,Mark Hughes
+874,Marko Arnautovic,Forward,Austria,Inter,England,Britannia Stadium,Mark Hughes
+875,Marc Wilson,Defender,Ireland,Stoke,England,Britannia Stadium,Mark Hughes
+876,Steven N'Zonzi,Midfielder,France,Stoke,England,Britannia Stadium,Mark Hughes
+877,Charlie Adam,Midfielder,Scotland,Stoke,England,Britannia Stadium,Mark Hughes
+878,Ryan Shawcross,Defender,England,Stoke,England,Britannia Stadium,Mark Hughes
+879,Jonathan Walters,Forward,Ireland,Stoke,England,Britannia Stadium,Mark Hughes
+880,Geoff Cameron,Defender,United States,Stoke,England,Britannia Stadium,Mark Hughes
+881,Oussama Assaidi,Midfielder,Morocco,Stoke,England,Britannia Stadium,Mark Hughes
+882,Peter Crouch,Forward,England,Stoke,England,Britannia Stadium,Mark Hughes
+883,Matthew Etherington,Midfielder,England,Stoke,England,Britannia Stadium,Mark Hughes
+884,Andy Wilkinson,Defender,England,Stoke,England,Britannia Stadium,Walter Mazzarri
+885,Thomas Soorensen,Goalkeeper,Denmark,Stoke,England,Britannia Stadium,Mark Hughes
+886,Ryan Shotton,Defender,England,Stoke,England,Britannia Stadium,Mark Hughes
+887,James Campbell,Defender,Scotland,Stoke,England,Britannia Stadium,Mark Hughes
+888,Ben Foster,Goalkeeper,England,West Brom,England,The Hawthorns,Pepe Mel
+889,Steven Reid,Defender,Ireland,West Brom,England,The Hawthorns,Pepe Mel
+890,Jonas Olsson,Defender,Sweden,West Brom,England,The Hawthorns,Pepe Mel
+891,Claudio Yacob,Midfielder,Argentina,West Brom,England,The Hawthorns,Pepe Mel
+892,Liam Ridgewell,Defender,England,West Brom,England,The Hawthorns,Pepe Mel
+893,James Morrison,Midfielder,Scotland,West Brom,England,The Hawthorns,Pepe Mel
+894,Scott Sinclair,Midfielder,England,West Brom,England,The Hawthorns,Pepe Mel
+895,Chris Brunt,Midfielder,Northern Ireland,West Brom,England,The Hawthorns,Pepe Mel
+896,Boaz Myhill,Goalkeeper,Wales,West Brom,England,The Hawthorns,Pepe Mel
+897,Diego Lugano,Defender,Uruguay,West Brom,England,The Hawthorns,Pepe Mel
+898,Victor Anichebe,Forward,Nigeria,West Brom,England,The Hawthorns,Pepe Mel
+899,Graham Dorrans,Midfielder,Scotland,West Brom,England,The Hawthorns,Pepe Mel
+900,Morgan Amalfitano,Midfielder,France,Inter,England,The Hawthorns,Pepe Mel
+901,Luke Daniels,Goalkeeper,England,West Brom,England,The Hawthorns,Pepe Mel
+902,Youssuf Mulumbu,Midfielder,xxx,West Brom,England,The Hawthorns,Pepe Mel
+903,Zoltoon Gera,Midfielder,Hungary,West Brom,England,The Hawthorns,Pepe Mel
+904,Gareth McAuley,Defender,Northern Ireland,West Brom,England,The Hawthorns,Pepe Mel
+905,Craig Dawson,Defender,England,West Brom,England,The Hawthorns,Pepe Mel
+906,Billy Jones,Defender,England,West Brom,England,The Hawthorns,Pepe Mel
+907,Stoophane Sessegnon,Midfielder,Benin,West Brom,England,The Hawthorns,Pepe Mel
+908,Nicolas Anelka,Forward,France,West Brom,England,The Hawthorns,Pepe Mel
+909,Michel Vorm,Goalkeeper,Netherlands,Swansea,England,Liberty Stadium,Garry Monk
+910,Jordi Amat,Defender,Spain,Swansea,England,Liberty Stadium,Garry Monk
+911,Neil Taylor,Defender,Wales,Inter,England,Liberty Stadium,Garry Monk
+912,Chico,Defender,Spain,Swansea,England,Liberty Stadium,Garry Monk
+913,Ashley Williams,Defender,Wales,Swansea,England,Liberty Stadium,Garry Monk
+914,Leon Britton,Midfielder,England,Swansea,England,Liberty Stadium,Garry Monk
+915,Michu,Forward,Spain,Swansea,England,Liberty Stadium,Garry Monk
+916,Wilfried Bony,Forward,xxx,Swansea,England,Liberty Stadium,Garry Monk
+917,Pablo Hernoondez,Midfielder,Spain,Swansea,England,Liberty Stadium,Garry Monk
+918,Nathan Dyer,Midfielder,England,Swansea,England,Liberty Stadium,Garry Monk
+919,David Cornell,Goalkeeper,Wales,Swansea,England,Liberty Stadium,Garry Monk
+920,Roland Lamah,Midfielder,Belgium,Swansea,England,Liberty Stadium,Garry Monk
+921,Wayne Routledge,Midfielder,England,Swansea,England,Liberty Stadium,Garry Monk
+922,Garry Monk,Defender,England,Swansea,England,Liberty Stadium,Garry Monk
+923,Leroy Lita,Forward,England,Swansea,England,Liberty Stadium,Garry Monk
+924,Josoo Caooas,Midfielder,Spain,Swansea,England,Liberty Stadium,Garry Monk
+925,Angel Rangel,Defender,Spain,Swansea,England,Liberty Stadium,Garry Monk
+926,oolex Pozuelo,Midfielder,Spain,Swansea,England,Liberty Stadium,Garry Monk
+927,Gerhard Tremmel,Goalkeeper,Germany,Swansea,England,Liberty Stadium,Garry Monk
+928,oolvaro Voozquez,Forward,Spain,Swansea,England,Liberty Stadium,Garry Monk
+929,Kyle Bartley,Defender,England,Swansea,England,Liberty Stadium,Garry Monk
+930,Curtis Obeng,Defender,England,Swansea,England,Liberty Stadium,Garry Monk
+931,Ashley Richards,Midfielder,Wales,Swansea,England,Liberty Stadium,Garry Monk
+932,David Ngog,Forward,France,Swansea,England,Liberty Stadium,Garry Monk
+933,Marvin Emnes,Forward,Netherlands,Swansea,England,Liberty Stadium,Garry Monk
+934,Petr Cech,Goalkeeper,Czech Republic,Chelsea,England,Stamford Bridge,Josoo Mourinho
+935,Branislav Ivanovic,Defender,Serbia,Chelsea,England,Stamford Bridge,Josoo Mourinho
+936,Ashley Cole,Defender,England,Chelsea,England,Stamford Bridge,Josoo Mourinho
+937,David Luiz,Defender,Brazil,Chelsea,England,Stamford Bridge,Josoo Mourinho
+938,Ramires,Midfielder,Brazil,Chelsea,England,Stamford Bridge,Josoo Mourinho
+939,Frank Lampard,Midfielder,England,Chelsea,England,Stamford Bridge,Josoo Mourinho
+940,Fernando Torres,Forward,Spain,Chelsea,England,Stamford Bridge,Josoo Mourinho
+941,Oscar,Midfielder,Brazil,Chelsea,England,Stamford Bridge,Josoo Mourinho
+942,John Obi Mikel,Midfielder,Nigeria,Chelsea,England,Stamford Bridge,Josoo Mourinho
+943,Andre Schoorrle,Forward,Germany,Chelsea,England,Stamford Bridge,Josoo Mourinho
+944,Eden Hazard,Forward,Belgium,Chelsea,England,Stamford Bridge,Josoo Mourinho
+945,Demba Ba,Forward,Senegal,Chelsea,England,Stamford Bridge,Josoo Mourinho
+946,Nemanja Matic,Midfielder,Serbia,Chelsea,England,Stamford Bridge,Josoo Mourinho
+947,Nemanja Matic,Midfielder,Serbia,Chelsea,England,Stamford Bridge,Josoo Mourinho
+948,Willian,Midfielder,Brazil,Chelsea,England,Stamford Bridge,Josoo Mourinho
+949,Mark Schwarzer,Goalkeeper,Australia,Chelsea,England,Stamford Bridge,Josoo Mourinho
+950,Gary Cahill,Defender,England,Chelsea,England,Stamford Bridge,Josoo Mourinho
+951,John Terry,Defender,England,Chelsea,England,Stamford Bridge,Josoo Mourinho
+952,Coosar Azpilicueta,Defender,Spain,Chelsea,England,Stamford Bridge,Josoo Mourinho
+953,Samuel Eto'o,Forward,Cameroon,Chelsea,England,Stamford Bridge,Josoo Mourinho
+954,Henrique Hiloorio,Goalkeeper,Portugal,Chelsea,England,Stamford Bridge,Josoo Mourinho
+955,Heurelho Gomes,Goalkeeper,Brazil,Inter,England,White Hart Lane,Tim Sherwood
+956,Kyle Walker,Defender,England,Spurs,England,White Hart Lane,Tim Sherwood
+957,Danny Rose,Defender,England,Spurs,England,White Hart Lane,Tim Sherwood
+958,Younes Kaboul,Defender,France,Spurs,England,White Hart Lane,Tim Sherwood
+959,Jan Vertonghen,Defender,Belgium,Spurs,England,White Hart Lane,Tim Sherwood
+960,Vlad Chiriches,Defender,Romania,Spurs,England,White Hart Lane,Tim Sherwood
+961,Aaron Lennon,Midfielder,England,Spurs,England,White Hart Lane,Tim Sherwood
+962,Paulinho,Midfielder,Brazil,Inter,England,White Hart Lane,Tim Sherwood
+963,Roberto Soldado,Forward,Spain,Spurs,England,White Hart Lane,Tim Sherwood
+964,Emmanuel Adebayor,Forward,Togo,Spurs,England,White Hart Lane,Tim Sherwood
+965,Etienne Capoue,Midfielder,France,Spurs,England,White Hart Lane,Tim Sherwood
+966,Kyle Naughton,Defender,England,Spurs,England,White Hart Lane,Tim Sherwood
+967,Andros Townsend,Midfielder,England,Spurs,England,White Hart Lane,Tim Sherwood
+968,Jermain Defoe,Forward,England,Spurs,England,White Hart Lane,Tim Sherwood
+969,Mousa Dembooloo,Midfielder,Belgium,Spurs,England,White Hart Lane,Tim Sherwood
+970,Michael Dawson,Defender,England,Spurs,England,White Hart Lane,Tim Sherwood
+971,Nacer Chadli,Midfielder,Belgium,Spurs,England,White Hart Lane,Tim Sherwood
+972,Gylfi Sigurdsson,Midfielder,Iceland,Spurs,England,White Hart Lane,Tim Sherwood
+973,Brad Friedel,Goalkeeper,United States,Spurs,England,White Hart Lane,Tim Sherwood
+974,Hugo Lloris,Goalkeeper,France,Spurs,England,White Hart Lane,Tim Sherwood
+975,Sandro,Midfielder,Brazil,Spurs,England,White Hart Lane,Tim Sherwood
+976,Francesco Benussi,Goalkeeper,Italy,Udinese,Italy,Friuli,Francesco Guidolin
+977,Etrit Berisha,Goalkeeper,Albania,Lazio,Italy,Olimpico,Edoardo Reja
+978,Thomas Strakosha,Goalkeeper,Albania,Inter,Italy,Olimpico,Edoardo Reja
+979,Lorik Cana,Defender,Albania,Lazio,Italy,Olimpico,Edoardo Reja
+980,Migjen Basha,Midfielder,Albania,Torino,Italy,Olimpico,Giampiero Ventura
+981,Paulo Sokoli,Defender,Albania,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+982,Hassan Yebda,Midfielder,Algeria,Udinese,Italy,Friuli,Francesco Guidolin
+983,Faouzi Ghoulam,Defender,Algeria,Napoli,Italy,San Paolo,Rafael Benitez
+984,Saphir Sliti Taider,Midfielder,Algeria,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+985,Djamel Mesbah,Defender,Algeria,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+986,Ishak Belfodil,Forward,Algeria,Livorno,Italy,Armando Picchi,Walter Mazzarri
+987,Roberto Maximiliano Pereyra,Midfielder,Argentina,Udinese,Italy,Friuli,Francesco Guidolin
+988,Ivan Alexis Pillud,Defender,Argentina,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+989,Ezequiel Adrian Cirigliano,Midfielder,Argentina,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+990,Gomez,Forward,Argentina,Hellas Verona,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+991,Iturbe,Forward,Argentina,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+992,Federico Fernandez,Defender,Argentina,Napoli,Italy,San Paolo,Rafael Benitez
+993,Gonzalo Higuaoon,Forward,Argentina,Napoli,Italy,San Paolo,Rafael Benitez
+994,Diego Martin Novaretti,Defender,Argentina,Lazio,Italy,Olimpico,Edoardo Reja
+995,Lucas Rodrigo Biglia,Midfielder,Argentina,Lazio,Italy,Olimpico,Edoardo Reja
+996,Jonathan Ezequiel Cristaldo,Forward,Argentina,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+997,Larrondo,Forward,Argentina,Torino,Italy,Olimpico,Walter Mazzarri
+998,Matias Augustin Silvestre,Defender,Argentina,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+999,Martin Gonzalo Martinez,Midfielder,Argentina,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1000,Jose Mauri,Midfielder,Argentina,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1001,Lionel Sebastian Scaloni,Defender,Argentina,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1002,Maximiliano Moralez,Midfielder,Argentina,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1003,German Gustavo Denis,Forward,Argentina,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1004,Matooas Nicoloos Rodriguez,Midfielder,Argentina,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1005,Lopez Maxi,Forward,Argentina,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1006,Adrian Daniool Calello,Midfielder,Argentina,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1007,Leandro Daniel Paredes,Forward,Argentina,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1008,Carlos Alberto Tevez,Forward,Argentina,Juventus,Italy,Juventus Stadium,Antonio Conte
+1009,Mariano Gonzalo Andujar,Goalkeeper,Argentina,Catania,Italy,Angelo Massimino,Rolando Maran
+1010,Alvarez,Defender,Argentina,Catania,Italy,Angelo Massimino,Rolando Maran
+1011,Luciano Fabian Monzon,Defender,Argentina,Catania,Italy,Angelo Massimino,Rolando Maran
+1012,Lucchetti Gino Peruzzi,Defender,Argentina,Catania,Italy,Angelo Massimino,Rolando Maran
+1013,Nicolas Federico Spolli,Defender,Argentina,Catania,Italy,Angelo Massimino,Rolando Maran
+1014,Sergio Bernardo Almiroon,Midfielder,Argentina,Catania,Italy,Angelo Massimino,Rolando Maran
+1015,Pablo Cesar Barrientos,Midfielder,Argentina,Catania,Italy,Angelo Massimino,Rolando Maran
+1016,Lucas Nahuel Castro,Midfielder,Argentina,Catania,Italy,Angelo Massimino,Rolando Maran
+1017,Mariano Julio Izco,Midfielder,Argentina,Catania,Italy,Angelo Massimino,Rolando Maran
+1018,Gonzalo Ruben Bergessio,Forward,Argentina,Catania,Italy,Angelo Massimino,Rolando Maran
+1019,Sebastioon Eduardo Leto,Forward,Argentina,Catania,Italy,Angelo Massimino,Rolando Maran
+1020,Fabioon Androos Rinaudo,Forward,Argentina,Catania,Italy,Angelo Massimino,Rolando Maran
+1021,Juan Pablo Carrizo,Goalkeeper,Argentina,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1022,Hugo Armando Campagnaro,Defender,Argentina,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1023,Walter Adrian Samuel,Defender,Argentina,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1024,Esteban Matooas Cambiasso,Midfielder,Argentina,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1025,Javier Zanetti,Midfielder,Argentina,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1026,Ricardo Gabriel oolvarez,Midfielder,Argentina,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1027,Botta,Forward,Argentina,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1028,Mauro Emanuel Icardi,Forward,Argentina,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1029,Diego Alberto Milito,Forward,Argentina,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1030,Rodrigo Palacio,Forward,Argentina,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1031,Albano Benjamin Bizzarri,Goalkeeper,Argentina,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1032,Nicolas Androos Burdisso,Defender,Argentina,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1033,Adrioon Ricardo Centurioon,Forward,Argentina,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1034,Rodriguez Gonzalo,Defender,Argentina,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1035,Facundo Sebastian Roncaglia,Defender,Argentina,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1036,Nahuel Valentini,Defender,Argentina,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1037,Dejan Stojanovic,Goalkeeper,Austria,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1038,Gyoorgy Garics,Defender,Austria,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1039,Dries Mertens,Forward,Belgium,Napoli,Italy,San Paolo,Rafael Benitez
+1040,Luis Pedro Cavanda,Defender,Belgium,Lazio,Italy,Olimpico,Edoardo Reja
+1041,Jean Francois Gillet,Goalkeeper,Belgium,Torino,Italy,Olimpico,Giampiero Ventura
+1042,Radja Nainggolan,Midfielder,Belgium,Roma,Italy,Olimpico,Rudi Garcia
+1043,Gaby Mudingayi,Midfielder,Belgium,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1044,Senad Lulic,Midfielder,Bosnia & Herzegovina,Lazio,Italy,Olimpico,Edoardo Reja
+1045,Andrej Modic,Forward,Bosnia & Herzegovina,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1046,Miralem Pjanic,Midfielder,Bosnia & Herzegovina,Roma,Italy,Olimpico,Rudi Garcia
+1047,Danilo,Defender,Brazil,Udinese,Italy,Friuli,Francesco Guidolin
+1048,Do Santos Douglas,Defender,Brazil,Udinese,Italy,Friuli,Francesco Guidolin
+1049,Silva Gabriel,Defender,Brazil,Udinese,Italy,Friuli,Francesco Guidolin
+1050,Naldo,Defender,Brazil,Udinese,Italy,Friuli,Francesco Guidolin
+1051,Neuton,Defender,Brazil,Udinese,Italy,Friuli,Francesco Guidolin
+1052,Allan,Midfielder,Brazil,Udinese,Italy,Friuli,Francesco Guidolin
+1053,Jadson,Midfielder,Brazil,Udinese,Italy,Friuli,Francesco Guidolin
+1054,Maicosuel,Forward,Brazil,Udinese,Italy,Friuli,Francesco Guidolin
+1055,Nicolas,Goalkeeper,Brazil,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1056,Rafael,Goalkeeper,Brazil,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1057,Pinto Rafael Marques,Defender,Brazil,Hellas Verona,Italy,Marcantonio Bentegodi,Walter Mazzarri
+1058,Marquinho,Midfielder,Brazil,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1059,Martinho,Midfielder,Brazil,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1060,Romulo,Midfielder,Brazil,Hellas Verona,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1061,Rafael,Goalkeeper,Brazil,Napoli,Italy,San Paolo,Rafael Benitez
+1062,Henrique,Defender,Brazil,Napoli,Italy,San Paolo,Rafael Benitez
+1063,Bruno Uvini,Defender,Brazil,Napoli,Italy,San Paolo,Rafael Benitez
+1064,Dias,Defender,Brazil,Lazio,Italy,Olimpico,Edoardo Reja
+1065,Ederson,Midfielder,Brazil,Lazio,Italy,Olimpico,Edoardo Reja
+1066,Anderson Felipe,Midfielder,Brazil,Lazio,Italy,Olimpico,Edoardo Reja
+1067,Ibson,Midfielder,Brazil,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1068,Barreto,Forward,Brazil,Torino,Italy,Olimpico,Giampiero Ventura
+1069,Gabriel,Goalkeeper,Brazil,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1070,Kakoo,Forward,Brazil,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1071,Robinho,Forward,Brazil,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1072,Felipe,Defender,Brazil,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1073,Farias,Forward,Brazil,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1074,Costa Angelo Esmael Junior Da,Goalkeeper,Brazil,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1075,Renan,Midfielder,Brazil,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1076,Eder,Forward,Brazil,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1077,Santos Dos,Midfielder,Brazil,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1078,Silva Victor Matheus Da,Forward,Brazil,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1079,Rubinho,Goalkeeper,Brazil,Juventus,Italy,Juventus Stadium,Antonio Conte
+1080,Leandro Castan,Defender,Brazil,Roma,Italy,Olimpico,Rudi Garcia
+1081,Dodoo,Defender,Brazil,Roma,Italy,Olimpico,Rudi Garcia
+1082,Maicon,Defender,Brazil,Roma,Italy,Olimpico,Rudi Garcia
+1083,Rafael Tolooi,Defender,Brazil,Roma,Italy,Olimpico,Rudi Garcia
+1084,Bastos Michel,Midfielder,Brazil,Roma,Italy,Olimpico,Rudi Garcia
+1085,Taddei,Midfielder,Brazil,Roma,Italy,Olimpico,Rudi Garcia
+1086,Jonathan,Defender,Brazil,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1087,Jesus Juan,Defender,Brazil,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1088,Wallace,Defender,Brazil,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1089,Hernanes,Midfielder,Brazil,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1090,Matuzalem,Midfielder,Brazil,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1091,Avelar Danilo,Defender,Brazil,Cagliari,Italy,Sant'Elia,Diego Lopez
+1092,Adryan,Midfielder,Brazil,Cagliari,Italy,Sant'Elia,Diego Lopez
+1093,Nenoo,Forward,Brazil,Cagliari,Italy,Sant'Elia,Diego Lopez
+1094,Neto,Goalkeeper,Brazil,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1095,Alan Pereira Empereur,Defender,Brazil,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1096,Anderson,Midfielder,Brazil,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1097,Matos,Midfielder,Brazil,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1098,Emerson,Defender,Brazil,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1099,Paulinho,Forward,Brazil,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1100,Nikolay Borislavov Mihaylov,Goalkeeper,Bulgaria,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1101,A'Beka Steve Leo Beleck,Forward,Cameroon,Udinese,Italy,Friuli,Francesco Guidolin
+1102,Carmona,Midfielder,Chile,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1103,Mauricio Anibal Isla,Midfielder,Chile,Juventus,Italy,Juventus Stadium,Antonio Conte
+1104,Vidal,Midfielder,Chile,Juventus,Italy,Juventus Stadium,Antonio Conte
+1105,Pinilla,Forward,Chile,Cagliari,Italy,Sant'Elia,Diego Lopez
+1106,Fernandez Mati,Midfielder,Chile,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1107,Cortes David Marcelo Pizarro,Midfielder,Chile,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1108,Moussa Kone,Midfielder,Cote D'Ivoire,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1109,Gervinho,Forward,Cote D'Ivoire,Roma,Italy,Olimpico,Rudi Garcia
+1110,Muriel,Forward,Colombia,Udinese,Italy,Friuli,Francesco Guidolin
+1111,Zuooiga,Defender,Colombia,Napoli,Italy,San Paolo,Rafael Benitez
+1112,Duvan Esteban Zapata,Forward,Colombia,Napoli,Italy,San Paolo,Rafael Benitez
+1113,Brayan Perea,Forward,Colombia,Lazio,Italy,Olimpico,Edoardo Reja
+1114,Cristian Zapata,Defender,Colombia,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1115,Jherson Vergara,Defender,Colombia,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1116,Mario Alberto Yepes,Defender,Colombia,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1117,Guarin,Midfielder,Colombia,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1118,Victor Ibarbo,Forward,Colombia,Cagliari,Italy,Sant'Elia,Diego Lopez
+1119,Cuadrado,Midfielder,Colombia,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1120,Mosquera,Midfielder,Colombia,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1121,Borja,Forward,Colombia,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1122,Cabalceta,Defender,Costa Rica,Catania,Italy,Angelo Massimino,Rolando Maran
+1123,Ivan Kelava,Goalkeeper,Croatia,Udinese,Italy,Friuli,Francesco Guidolin
+1124,Igor Bubnjic,Defender,Croatia,Udinese,Italy,Friuli,Francesco Guidolin
+1125,Frano Mlinar,Midfielder,Croatia,Udinese,Italy,Friuli,Francesco Guidolin
+1126,Josip Radosevic,Midfielder,Croatia,Napoli,Italy,San Paolo,Rafael Benitez
+1127,Josip Elez,Defender,Croatia,Lazio,Italy,Olimpico,Edoardo Reja
+1128,Marijan Coric,Goalkeeper,Croatia,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1129,Marko Livaja,Forward,Croatia,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1130,Tin Jedvaj,Defender,Croatia,Roma,Italy,Olimpico,Rudi Garcia
+1131,Bruno Petkovic,Forward,Croatia,Catania,Italy,Angelo Massimino,Rolando Maran
+1132,Mateo Kovacic,Midfielder,Croatia,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1133,Sime Vrsaljko,Defender,Croatia,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1134,Ante Rebic,Forward,Croatia,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1135,Michal Rabusic,Midfielder,Czech Republic,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1136,Jaroslav Plaooil,Midfielder,Czech Republic,Catania,Italy,Angelo Massimino,Rolando Maran
+1137,Frederik Soorensen,Defender,Denmark,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1138,Ahmed Elsayed Hegazi,Defender,Egypt,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1139,Perparim Hetemaj,Midfielder,Finland,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1140,Thomas Heurtaux,Defender,France,Udinese,Italy,Friuli,Francesco Guidolin
+1141,Anthony Rooveilloore,Defender,France,Napoli,Italy,San Paolo,Rafael Benitez
+1142,Michael Ciani,Defender,France,Lazio,Italy,Olimpico,Edoardo Reja
+1143,Abdoulay Konko,Defender,France,Lazio,Italy,Olimpico,Edoardo Reja
+1144,Gaool Kakuta,Midfielder,France,Lazio,Italy,Olimpico,Edoardo Reja
+1145,Philippe Mexoos,Defender,France,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1146,Adil Rami,Defender,France,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1147,Jonathan Ludovic Biabiany,Midfielder,France,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1148,Nicolas Sebastien Frey,Defender,France,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1149,Cyril Thoorooau,Forward,France,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1150,Paul Labile Pogba,Midfielder,France,Juventus-*,Italy,Juventus Stadium,Antonio Conte
+1151,Allan Junior Blaze,Defender,France,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1152,Soobastien De Maio,Defender,France,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1153,Modibo Diakitoo,Defender,France,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1154,Miroslav Klose,Forward,Germany,Lazio,Italy,Olimpico,Edoardo Reja
+1155,Shkodran Mustafi,Defender,Germany,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1156,Marvin Abel Compper,Defender,Germany,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1157,Garcia Mario Gomez,Forward,Germany,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1158,Giuseppe Gemiti,Defender,Germany,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1159,Emmanuel Agyemang Badu,Midfielder,Ghana,Udinese,Italy,Friuli,Francesco Guidolin
+1160,Michael Essien,Midfielder,Ghana,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1161,Sulley Ali Muntari,Midfielder,Ghana,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1162,Afriyie Acquah,Midfielder,Ghana,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1163,Solomon Nyantakyi,Forward,Ghana,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1164,Yussif Raman Chibsah,Midfielder,Ghana,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1165,Abass Alhassan,Forward,Ghana,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1166,Kwadwo Asamoah,Midfielder,Ghana,Juventus-*,Italy,Juventus Stadium,Antonio Conte
+1167,Isaac Opoku Donkor,Forward,Ghana,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1168,Isaac Cofie,Midfielder,Ghana,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1169,Joseph Alfred Duncan,Midfielder,Ghana,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1170,Vangelis Moras,Defender,Greece,Hellas Verona,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1171,Lazaros Christodoulopoulos,Midfielder,Greece,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1172,Panagiotis Kone,Midfielder,Greece,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1173,Panagiotis Tachtsidis,Midfielder,Greece,Torino,Italy,Olimpico,Giampiero Ventura
+1174,Vasileios Torosidis,Defender,Greece,Roma,Italy,Olimpico,Rudi Garcia
+1175,Giannis Fetfatzidis,Midfielder,Greece,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1176,Marios Oikonomou,Defender,Greece,Cagliari,Italy,Sant'Elia,Diego Lopez
+1177,Kevin Constant,Defender,Guinea,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1178,Emil Hallfredsson,Midfielder,Iceland,Hellas Verona,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1179,Birkir Bjarnason,Midfielder,Iceland,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1180,Simone Scuffet,Goalkeeper,Italy,Udinese,Italy,Friuli,Francesco Guidolin
+1181,Filippo Berra,Defender,Italy,Udinese,Italy,Friuli,Francesco Guidolin
+1182,Maurizio Domizzi,Defender,Italy,Udinese,Italy,Friuli,Francesco Guidolin
+1183,Andrea Lazzari,Midfielder,Italy,Udinese,Italy,Friuli,Francesco Guidolin
+1184,Giampiero Pinzi,Midfielder,Italy,Inter,Italy,Friuli,Francesco Guidolin
+1185,Marco Bertoia,Forward,Italy,Inter,Italy,Friuli,Francesco Guidolin
+1186,Antonio Di Natale,Forward,Italy,Udinese,Italy,Friuli,Francesco Guidolin
+1187,Daniele Borra,Goalkeeper,Italy,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1188,Alessandro Agostini,Defender,Italy,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1189,Michelangelo Albertazzi,Defender,Italy,Hellas Verona,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1190,Fabrizio Cacciatore,Defender,Italy,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1191,Domenico Maietta,Defender,Italy,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1192,Marco Donadel,Midfielder,Italy,Hellas Verona,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1193,Massimo Donati,Midfielder,Italy,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1194,Jacopo Sala,Midfielder,Italy,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1195,Daniele Cacia,Forward,Italy,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1196,Luca Toni,Forward,Italy,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1197,Roberto Colombo,Goalkeeper,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1198,Michele Girardi,Defender,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1199,Vincenzo Guardiglio,Defender,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1200,Christian Maggio,Defender,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1201,Gianluigi Mangiapia,Defender,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1202,Giandomenico Mesto,Defender,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1203,Giorgio Palumbo,Defender,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1204,Marco Supino,Defender,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1205,Davide Bariti,Midfielder,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1206,Alessandro Di Fiore,Midfielder,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1207,Jorginho,Midfielder,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1208,Gennaro Tutino,Midfielder,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1209,Alfredo Bifulco,Forward,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1210,Felice Gaetano,Forward,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1211,Lorenzo Insigne,Forward,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1212,Luca Palmiero,Forward,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1213,Mario Prezioso,Forward,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1214,Antonio Romano,Forward,Italy,Napoli,Italy,San Paolo,Rafael Benitez
+1215,Filippo De Angelis,Goalkeeper,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1216,Guido Guerrieri,Goalkeeper,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1217,Federico Marchetti,Goalkeeper,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1218,Giuseppe Biava,Defender,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1219,Lorenzo Filippini,Defender,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1220,Simone Mattia,Defender,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1221,Nico Paterni,Defender,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1222,Andrea Perocchi,Defender,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1223,Gianluca Pollace,Defender,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1224,Riccardo Serpieri,Defender,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1225,Antonio Candreva,Midfielder,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1226,Luca Crecco,Midfielder,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1227,Cristian Daniel Ledesma,Midfielder,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1228,Cristiano Lombardi,Midfielder,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1229,Stefano Mauri,Midfielder,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1230,Simone Milani,Midfielder,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1231,Simone Palombi,Midfielder,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1232,Alessandro Murgia,Forward,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1233,Lorenzo Pace,Forward,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1234,Lorenzo Silvagni,Forward,Italy,Lazio,Italy,Olimpico,Edoardo Reja
+1235,Gianluca Curci,Goalkeeper,Italy,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1236,Matteo Malagoli,Goalkeeper,Italy,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1237,Nicoloo Cherubin,Defender,Italy,Inter,Italy,Renato Dall'Ara,Davide Ballardini
+1238,Marco Maini,Defender,Italy,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1239,Andrea Mantovani,Defender,Italy,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1240,Archimede Morleo,Defender,Italy,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1241,Cesare Natali,Defender,Italy,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1242,Rocca Francesco Della,Midfielder,Italy,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1243,Michele Pazienza,Midfielder,Italy,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1244,Robert Acquafresca,Forward,Italy,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1245,Rolando Bianchi,Forward,Italy,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1246,Davide Moscardelli,Forward,Italy,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1247,Daniele Paponi,Forward,Italy,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1248,Tommaso Berni,Goalkeeper,Italy,Torino,Italy,Olimpico,Giampiero Ventura
+1249,Daniele Padelli,Goalkeeper,Italy,Torino,Italy,Olimpico,Giampiero Ventura
+1250,Umberto Saracco,Goalkeeper,Italy,Torino,Italy,Olimpico,Giampiero Ventura
+1251,Cesare Bovo,Defender,Italy,Torino,Italy,Olimpico,Giampiero Ventura
+1252,Matteo Darmian,Defender,Italy,Torino,Italy,Olimpico,Giampiero Ventura
+1253,Emiliano Moretti,Defender,Italy,Torino,Italy,Olimpico,Giampiero Ventura
+1254,Giovanni Pasquale,Defender,Italy,Torino,Italy,Olimpico,Giampiero Ventura
+1255,Alessandro Carlo Gazzi,Midfielder,Italy,Torino,Italy,Olimpico,Giampiero Ventura
+1256,Salvatore Masiello,Midfielder,Italy,Torino,Italy,Olimpico,Giampiero Ventura
+1257,Giuseppe Vives,Midfielder,Italy,Torino,Italy,Olimpico,Giampiero Ventura
+1258,Alessio Cerci,Forward,Italy,Torino,Italy,Olimpico,Giampiero Ventura
+1259,Ciro Immobile,Forward,Italy,Torino,Italy,Olimpico,Giampiero Ventura
+1260,Riccardo Meggiorini,Forward,Italy,Torino,Italy,Olimpico,Giampiero Ventura
+1261,Christian Abbiati,Goalkeeper,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1262,Marco Amelia,Goalkeeper,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1263,Ferdinando Coppola,Goalkeeper,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1264,Lorenzo Ferrari,Goalkeeper,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1265,Ignazio Abate,Defender,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1266,Daniele Bonera,Defender,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1267,Mattia De Sciglio,Defender,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1268,Luca Iotti,Defender,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1269,Marco Pinato,Defender,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1270,Cristian Zaccardo,Defender,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1271,Bryan Cristante,Midfielder,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1272,Davide Di Molfetta,Midfielder,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1273,Riccardo Montolivo,Midfielder,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1274,Andrea Poli,Midfielder,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1275,Riccardo Saponara,Midfielder,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1276,Mario Balotelli,Forward,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1277,Shaarawy Stephan El,Forward,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1278,Alessandro Mastalli,Forward,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1279,Giampaolo Pazzini,Forward,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1280,Andrea Petagna,Forward,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1281,Mario Piccinocchi,Forward,Italy,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1282,Antonio Mirante,Goalkeeper,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1283,Nicola Pavarini,Goalkeeper,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1284,Diego Rossetto,Goalkeeper,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1285,Mattia Cassani,Defender,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1286,Alessandro Lucarelli,Defender,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1287,Cristian Molinaro,Defender,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1288,Gabriel Alejandro Paletta,Defender,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1289,Davide Zagnoni,Defender,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1290,Daniele Galloppa,Midfielder,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1291,Massimo Gobbi,Midfielder,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1292,Marco Marchionni,Midfielder,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1293,Gianni Munari,Midfielder,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1294,Marco Parolo,Midfielder,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1295,Ezequiel Matias Schelotto,Midfielder,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1296,Amauri,Forward,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1297,Antonio Cassano,Forward,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1298,Alberto Cerri,Forward,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1299,Raffaele Palladino,Forward,Italy,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1300,Nicola Pozzi,Forward,Italy,Parma,Italy,Ennio Tardini,Walter Mazzarri
+1301,Gianluca Pegolo,Goalkeeper,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1302,Simone Perilli,Goalkeeper,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1303,Ciro Polito,Goalkeeper,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1304,Alberto Pomini,Goalkeeper,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1305,Francesco Acerbi,Defender,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1306,Luca Antei,Defender,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1307,Lorenzo Ariaudo,Defender,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1308,Paolo Bianco,Defender,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1309,Paolo Cannavaro,Defender,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1310,Lorenzo Caselli,Defender,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1311,Marcello Gazzola,Defender,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1312,Alessandro Longhi,Defender,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1313,Thomas Manfredini,Defender,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1314,Raffaele Pucino,Defender,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1315,Emanuele Terranova,Defender,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1316,Daniele Vacondio,Defender,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1317,Davide Biondini,Midfielder,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1318,Matteo Brighi,Midfielder,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1319,Ettore Gliozzi,Midfielder,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1320,Davide Lodesani,Midfielder,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1321,Francesco Magnanelli,Midfielder,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1322,Luca Marrone,Midfielder,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1323,Simone Missiroli,Midfielder,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1324,Aleandro Rosi,Midfielder,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1325,Domenico Berardi,Forward,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1326,Eros Castelletto,Forward,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1327,Sergio Floccari,Forward,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1328,Flores Antonio Floro,Forward,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1329,Gaetano Masucci,Forward,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1330,Nicola Domenico Sansone,Forward,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1331,Simone Zaza,Forward,Italy,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1332,Andrea Consigli,Goalkeeper,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1333,Giorgio Frezzolini,Goalkeeper,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1334,Marco Sportiello,Goalkeeper,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1335,Gianluca Barba,Defender,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1336,Gianpaolo Bellini,Defender,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1337,Davide Brivio,Defender,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1338,Mattia Caldara,Defender,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1339,Grosso Cristiano Del,Defender,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1340,Stefano Lucchini,Defender,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1341,Guglielmo Stendardo,Defender,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1342,Daniele Baselli,Midfielder,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1343,Giacomo Bonaventura,Midfielder,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1344,Franco Brienza,Midfielder,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1345,Riccardo Cazzola,Midfielder,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1346,Luca Cigarini,Midfielder,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1347,Luigi Giorgi,Midfielder,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1348,Giulio Migliaccio,Midfielder,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1349,Giacomo Parigi,Midfielder,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1350,Cristian Raimondi,Midfielder,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1351,Giuseppe De Luca,Forward,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Walter Mazzarri
+1352,Mario Pugliese,Forward,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1353,Federico Varano,Forward,Italy,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1354,Wladimiro Falcone,Goalkeeper,Italy,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1355,Vincenzo Fiorillo,Goalkeeper,Italy,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1356,Andrea Costa,Defender,Italy,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1357,Lorenzo De Silvestri,Defender,Italy,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1358,Michele Fornasier,Defender,Italy,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1359,Daniele Gastaldello,Defender,Italy,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1360,Angelo Palombo,Defender,Italy,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1361,Vasco Regini,Defender,Italy,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1362,Gianluca Sansone,Midfielder,Italy,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1363,Alessio Sestu,Midfielder,Italy,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1364,Roberto Soriano,Midfielder,Italy,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1365,Manolo Gabbiadini,Forward,Italy,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1366,Okaka,Forward,Italy,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1367,Michael Agazzi,Goalkeeper,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1368,Simone Moschin,Goalkeeper,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1369,Christian Puggioni,Goalkeeper,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1370,Lorenzo Squizzi,Goalkeeper,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1371,Simone Aldrovandi,Defender,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1372,Alessandro Bernardini,Defender,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1373,Michele Canini,Defender,Italy,Inter,Italy,Marcantonio Bentegodi,Eugenio Corini
+1374,Filippo Costa,Defender,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1375,Dario Dainelli,Defender,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1376,Matteo Rubin,Defender,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1377,Gennaro Sardo,Defender,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1378,Simone Bentivoglio,Midfielder,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1379,Roberto Guana,Midfielder,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1380,Tiberio Guarente,Midfielder,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1381,Luca Rigoni,Midfielder,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1382,Idriz Toskic,Midfielder,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1383,Alberto Paloschi,Forward,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1384,Sergio Pellissier,Forward,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1385,Michele Troiani,Forward,Italy,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1386,Gianluigi Buffon,Goalkeeper,Italy,Juventus,Italy,Juventus Stadium,Antonio Conte
+1387,Leonardo Citti,Goalkeeper,Italy,Juventus,Italy,Juventus Stadium,Antonio Conte
+1388,Marco Storari,Goalkeeper,Italy,Juventus,Italy,Juventus Stadium,Antonio Conte
+1389,Gianmarco Vannucchi,Goalkeeper,Italy,Juventus,Italy,Juventus Stadium,Antonio Conte
+1390,Andrea Barzagli,Defender,Italy,Juventus,Italy,Juventus Stadium,Antonio Conte
+1391,Leonardo Bonucci,Defender,Italy,Juventus,Italy,Juventus Stadium,Antonio Conte
+1392,Giorgio Chiellini,Defender,Italy,Juventus,Italy,Juventus Stadium,Antonio Conte
+1393,Ogbonna,Defender,Italy,Juventus,Italy,Juventus Stadium,Antonio Conte
+1394,Federico Peluso,Defender,Italy,Juventus,Italy,Juventus Stadium,Antonio Conte
+1395,Claudio Marchisio,Midfielder,Italy,Juventus,Italy,Juventus Stadium,Antonio Conte
+1396,Federico Mattiello,Midfielder,Italy,Juventus,Italy,Juventus Stadium,Antonio Conte
+1397,Simone Padoin,Midfielder,Italy,Juventus,Italy,Juventus Stadium,Antonio Conte
+1398,Simone Pepe,Midfielder,Italy,Juventus,Italy,Juventus Stadium,Antonio Conte
+1399,Andrea Pirlo,Midfielder,Italy,Juventus,Italy,Juventus Stadium,Antonio Conte
+1400,Sebastian Giovinco,Forward,Italy,Juventus-*,Italy,Juventus Stadium,Antonio Conte
+1401,Pablo Daniel Osvaldo,Forward,Italy,Juventus,Italy,Juventus Stadium,Antonio Conte
+1402,Fabio Quagliarella,Forward,Italy,Juventus,Italy,Juventus Stadium,Antonio Conte
+1403,Morgan De Sanctis,Goalkeeper,Italy,Roma,Italy,Olimpico,Rudi Garcia
+1404,Federico Balzaretti,Defender,Italy,Roma,Italy,Olimpico,Rudi Garcia
+1405,Alessio Romagnoli,Defender,Italy,Roma,Italy,Olimpico,Rudi Garcia
+1406,Daniele De Rossi,Midfielder,Italy,Roma,Italy,Olimpico,Rudi Garcia
+1407,Francesco Di Mariano,Midfielder,Italy,Roma,Italy,Olimpico,Rudi Garcia
+1408,Alessandro Florenzi,Midfielder,Italy,Roma,Italy,Olimpico,Rudi Garcia
+1409,Federico Ricci,Midfielder,Italy,Roma,Italy,Olimpico,Rudi Garcia
+1410,Simone Battaglia,Forward,Italy,Roma,Italy,Olimpico,Rudi Garcia
+1411,Mattia Destro,Forward,Italy,Roma,Italy,Olimpico,Rudi Garcia
+1412,Luca Mazzitelli,Forward,Italy,Roma,Italy,Olimpico,Rudi Garcia
+1413,Francesco Totti,Forward,Italy,Roma,Italy,Olimpico,Rudi Garcia
+1414,Giorgio Costanzo,Goalkeeper,Italy,Catania,Italy,Angelo Massimino,Rolando Maran
+1415,Giuseppe Ficara,Goalkeeper,Italy,Catania,Italy,Angelo Massimino,Rolando Maran
+1416,Alberto Frison,Goalkeeper,Italy,Inter,Italy,Angelo Massimino,Rolando Maran
+1417,Giuseppe Bellusci,Defender,Italy,Catania,Italy,Angelo Massimino,Rolando Maran
+1418,Cristiano Biraghi,Defender,Italy,Catania,Italy,Angelo Massimino,Rolando Maran
+1419,Simone Brugaletta,Defender,Italy,Catania,Italy,Angelo Massimino,Rolando Maran
+1420,Ciro Capuano,Defender,Italy,Catania,Italy,Angelo Massimino,Rolando Maran
+1421,Michele De Matteis,Defender,Italy,Catania,Italy,Angelo Massimino,Rolando Maran
+1422,Nicola Legrottaglie,Defender,Italy,Catania,Italy,Angelo Massimino,Rolando Maran
+1423,Sergio Agatino Garufi,Midfielder,Italy,Catania,Italy,Angelo Massimino,Rolando Maran
+1424,Francesco Lodi,Midfielder,Italy,Catania,Italy,Angelo Massimino,Rolando Maran
+1425,Kingsley Boateng,Forward,Italy,Catania,Italy,Angelo Massimino,Rolando Maran
+1426,Francesco Fedato,Forward,Italy,Catania,Italy,Angelo Massimino,Rolando Maran
+1427,Agostino Gallo,Forward,Italy,Catania,Italy,Angelo Massimino,Rolando Maran
+1428,Luca Castellazzi,Goalkeeper,Italy,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1429,Luca Maniero,Goalkeeper,Italy,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1430,Marco Andreolli,Defender,Italy,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1431,Danilo D'Ambrosio,Defender,Italy,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1432,Riva Stefano Dalla,Defender,Italy,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1433,Fabio Eguelfi,Defender,Italy,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1434,Lorenzo Paramatti,Defender,Italy,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1435,Andrea Ranocchia,Defender,Italy,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1436,Federico Bonazzoli,Midfielder,Italy,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1437,Alessandro Capello,Midfielder,Italy,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1438,Gennaro Acampora,Forward,Italy,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1439,Andrea Mira,Forward,Italy,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1440,Marco Albertoni,Goalkeeper,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1441,Antonio Donnarumma,Goalkeeper,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1442,Mattia Perin,Goalkeeper,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1443,Luca Antonelli,Defender,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1444,Luca Antonini,Defender,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1445,Paolo De Ceglie,Defender,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1446,Alessandro Gamberini,Defender,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1447,Giovanni Marchese,Defender,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1448,Marco Motta,Defender,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1449,Daniele Portanova,Defender,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1450,Andrea Bertolacci,Midfielder,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1451,Jami Rafati,Midfielder,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1452,Stefano Sturaro,Midfielder,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1453,Emanuele Calaioo,Forward,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1454,Francesco Di Marco,Forward,Italy,Inter,Italy,Luigi Ferraris,Gianpiero Gasperini
+1455,Alberto Gilardino,Forward,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1456,Giuseppe Sculli,Forward,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1457,Tiberio Velocci,Forward,Italy,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1458,Werther Carboni,Goalkeeper,Italy,Cagliari,Italy,Sant'Elia,Walter Mazzarri
+1459,Marco Silvestri,Goalkeeper,Italy,Cagliari,Italy,Sant'Elia,Diego Lopez
+1460,Davide Astori,Defender,Italy,Cagliari,Italy,Sant'Elia,Diego Lopez
+1461,Alessandro Bastrini,Defender,Italy,Cagliari,Italy,Sant'Elia,Diego Lopez
+1462,Fabro Dario Del,Defender,Italy,Cagliari,Italy,Sant'Elia,Diego Lopez
+1463,Nicola Murru,Defender,Italy,Cagliari,Italy,Sant'Elia,Diego Lopez
+1464,Gabriele Perico,Defender,Italy,Cagliari,Italy,Sant'Elia,Diego Lopez
+1465,Francesco Pisano,Defender,Italy,Cagliari,Italy,Sant'Elia,Diego Lopez
+1466,Luca Rossettini,Defender,Italy,Cagliari,Italy,Sant'Elia,Diego Lopez
+1467,Daniele Conti,Midfielder,Italy,Cagliari,Italy,Sant'Elia,Diego Lopez
+1468,Andrea Cossu,Midfielder,Italy,Cagliari,Italy,Sant'Elia,Diego Lopez
+1469,Andrea Demontis,Midfielder,Italy,Cagliari,Italy,Sant'Elia,Diego Lopez
+1470,Daniele Dessena,Midfielder,Italy,Cagliari,Italy,Sant'Elia,Diego Lopez
+1471,Simone Solinas,Midfielder,Italy,Cagliari,Italy,Sant'Elia,Diego Lopez
+1472,Michele Suella,Midfielder,Italy,Cagliari,Italy,Sant'Elia,Diego Lopez
+1473,Alessandro Masia,Forward,Italy,Cagliari,Italy,Sant'Elia,Diego Lopez
+1474,Marco Sau,Forward,Italy,Cagliari,Italy,Sant'Elia,Diego Lopez
+1475,Lorenzo Bardini,Goalkeeper,Italy,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1476,Luca Lezzerini,Goalkeeper,Italy,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1477,Cristiano Lupatelli,Goalkeeper,Italy,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1478,Antonio Rosati,Goalkeeper,Italy,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1479,Saverio Madrigali,Defender,Italy,Fiorentina,Italy,Artemio Franchi,Walter Mazzarri
+1480,Manuel Pasqual,Defender,Italy,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1481,Lorenzo Venuti,Defender,Italy,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1482,Massimo Ambrosini,Midfielder,Italy,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1483,Alberto Aquilani,Midfielder,Italy,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1484,Leonardo Capezzi,Midfielder,Italy,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1485,Nicoloo Fazzi,Midfielder,Italy,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1486,Axel Gulin,Midfielder,Italy,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1487,Alessandro Matri,Forward,Italy,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1488,Giuseppe Rossi,Forward,Italy,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1489,Gabriele Aldegani,Goalkeeper,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1490,Luca Anania,Goalkeeper,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1491,Francesco Bardi,Goalkeeper,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1492,Matteo Cipriani,Goalkeeper,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1493,Paolo Castellini,Defender,Italy,Livorno,Italy,Armando Picchi,Walter Mazzarri
+1494,Federico Ceccherini,Defender,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1495,Andrea Coda,Defender,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1496,Cristiano Piccini,Defender,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1497,Leandro Rinaudo,Defender,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1498,Andrea Tiritiello,Defender,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1499,Daniele Bartolini,Midfielder,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1500,Marco Benassi,Midfielder,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1501,Marco Biagianti,Midfielder,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1502,Leandro Greco,Midfielder,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1503,Andrea Luci,Midfielder,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1504,Tommaso Biasci,Forward,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1505,Federico Dionisi,Forward,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1506,Luca Siligardi,Forward,Italy,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1507,Keisuke Honda,Midfielder,Japan,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1508,Yuto Nagatomo,Defender,Japan,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1509,Mariga,Midfielder,Kenya,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1510,Goran Pandev,Forward,Macedonia,Napoli,Italy,San Paolo,Rafael Benitez
+1511,Agim Ibraimi,Forward,Macedonia,Cagliari,Italy,Sant'Elia,Diego Lopez
+1512,Adam Masina,Defender,Morocco,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1513,Kaddouri Omar El,Midfielder,Morocco,Torino,Italy,Olimpico,Giampiero Ventura
+1514,Adel Taarabt,Midfielder,Morocco,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1515,Benatia,Defender,Morocco,Roma,Italy,Olimpico,Rudi Garcia
+1516,Marko Vesovic,Forward,Montenegro,Torino,Italy,Olimpico,Giampiero Ventura
+1517,Mirko Vucinic,Forward,Montenegro,Juventus,Italy,Juventus Stadium,Antonio Conte
+1518,Stefan Savic,Defender,Montenegro,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1519,Marko Bakic,Midfielder,Montenegro,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1520,Nigel De Jong,Midfielder,Netherlands,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1521,Urby Emanuelson,Midfielder,Netherlands,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1522,Kevin Strootman,Midfielder,Netherlands,Roma,Italy,Olimpico,Rudi Garcia
+1523,Eddy Ogenyi Onazi,Midfielder,Nigeria,Lazio,Italy,Olimpico,Edoardo Reja
+1524,Joel Chukwuma Obi,Midfielder,Nigeria,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1525,Obinna,Forward,Nigeria,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1526,Marcelo Estigarribia,Midfielder,Paraguay,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1527,Vargas,Midfielder,Peru,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1528,Piotr Zielinski,Midfielder,Poland,Udinese,Italy,Friuli,Francesco Guidolin
+1529,Kamil Glik,Defender,Poland,Torino,Italy,Olimpico,Giampiero Ventura
+1530,Bartosz Salamon,Midfielder,Poland,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1531,Pawel Wszolek,Midfielder,Poland,Sampdoria,Italy,Luigi Ferraris,Walter Mazzarri
+1532,Tomasz Kupisz,Midfielder,Poland,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1533,Lukasz Skorupski,Goalkeeper,Poland,Roma,Italy,Olimpico,Rudi Garcia
+1534,Rafal Wolski,Midfielder,Poland,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1535,Fernandes,Midfielder,Portugal,Udinese,Italy,Friuli,Francesco Guidolin
+1536,Pereirinha,Defender,Portugal,Lazio,Italy,Olimpico,Edoardo Reja
+1537,Postiga Hoolder,Forward,Portugal,Lazio,Italy,Olimpico,Edoardo Reja
+1538,Pedro Filipe Teodosio Mendes,Defender,Portugal,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1539,Rolando,Defender,Portugal,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1540,Stefan Daniel Radu,Defender,Romania,Lazio,Italy,Olimpico,Edoardo Reja
+1541,Marius Alexe,Forward,Romania,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1542,Constantin Nica,Defender,Romania,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1543,Adrian Stoian,Forward,Romania,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1544,Bogdan Lobont,Goalkeeper,Romania,Roma,Italy,Olimpico,Rudi Garcia
+1545,Cristian Chivu,Defender,Romania,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1546,George Alexandru Puscas,Midfielder,Romania,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1547,Lys Gomis,Goalkeeper,Senegal,Torino,Italy,Olimpico,Giampiero Ventura
+1548,Dembel Sall,Defender,Senegal,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1549,Boukary Dramoo,Defender,Senegal,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1550,Maodo Malick Mbaye,Forward,Senegal,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1551,Pape Moussa Konatoo,Forward,Senegal,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1552,Ibrahima Mbaye,Defender,Senegal,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1553,Zeljko Brkic,Goalkeeper,Serbia,Udinese,Italy,Friuli,Francesco Guidolin
+1554,Dusan Basta,Defender,Serbia,Udinese,Italy,Friuli,Francesco Guidolin
+1555,Bosko Jankovic,Midfielder,Serbia,Hellas Verona,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1556,Milos Antic,Midfielder,Serbia,Lazio,Italy,Olimpico,Edoardo Reja
+1557,Nikola Maksimovic,Defender,Serbia,Torino,Italy,Olimpico,Giampiero Ventura
+1558,Filip Jankovic,Midfielder,Serbia,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1559,Nenad Krsticic,Midfielder,Serbia,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1560,Ivan Radovanovic,Midfielder,Serbia,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1561,Adem Ljajic,Forward,Serbia,Roma,Italy,Olimpico,Rudi Garcia
+1562,Zdravko Kuzmanovic,Midfielder,Serbia,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1563,Vlada Avramov,Goalkeeper,Serbia,Cagliari,Italy,Sant'Elia,Diego Lopez
+1564,Nenad Tomovic,Defender,Serbia,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1565,Marek Hamsik,Midfielder,Slovakia,Napoli,Italy,San Paolo,Rafael Benitez
+1566,Marek Cech,Defender,Slovakia,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1567,Pavol Bajza,Goalkeeper,Slovakia,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1568,Norbert Gyomber,Defender,Slovakia,Catania,Italy,Angelo Massimino,Rolando Maran
+1569,Juraj Kucka,Midfielder,Slovakia,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1570,Rene Krhin,Midfielder,Slovenia,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1571,Jasmin Kurtic,Midfielder,Slovenia,Torino,Italy,Olimpico,Giampiero Ventura
+1572,Zan Benedicic,Midfielder,Slovenia,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1573,Valter Birsa,Midfielder,Slovenia,Milan,Italy,Giuseppe Meazza,Mauro Tassotti
+1574,Bostjan Cesar,Defender,Slovenia,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1575,Dejan Lazarevic,Forward,Slovenia,Chievo Verona,Italy,Marcantonio Bentegodi,Eugenio Corini
+1576,Samir Handanovic,Goalkeeper,Slovenia,Inter,Italy,Giuseppe Meazza,Walter Mazzarri
+1577,Josip Ilicic,Midfielder,Slovenia,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1578,Santana Antonio David Doblas,Goalkeeper,Spain,Napoli,Italy,San Paolo,Rafael Benitez
+1579,Josoo Manuel Reina,Goalkeeper,Spain,Napoli,Italy,San Paolo,Rafael Benitez
+1580,Raul Albiol,Defender,Spain,Napoli,Italy,San Paolo,Rafael Benitez
+1581,Josoo Marooa Callejoon,Forward,Spain,Napoli,Italy,San Paolo,Rafael Benitez
+1582,Mamadou Tounkara,Midfielder,Spain,Lazio,Italy,Olimpico,Edoardo Reja
+1583,Keita,Forward,Spain,Lazio,Italy,Olimpico,Edoardo Reja
+1584,Crespo,Defender,Spain,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1585,Obiang,Midfielder,Spain,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1586,Llorente,Forward,Spain,Juventus,Italy,Juventus Stadium,Antonio Conte
+1587,Keko,Forward,Spain,Catania,Italy,Angelo Massimino,Rolando Maran
+1588,Valero Borja,Midfielder,Spain,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1589,Joaquoon,Midfielder,Spain,Fiorentina,Italy,Artemio Franchi,Vincenzo Montella
+1590,Mikael Antonsson,Defender,Sweden,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1591,Erik Friberg,Midfielder,Sweden,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1592,Alexander Farnerud,Midfielder,Sweden,Torino,Italy,Olimpico,Giampiero Ventura
+1593,Joakim Olausson,Forward,Sweden,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1594,Albin Ekdal,Midfielder,Sweden,Cagliari,Italy,Sant'Elia,Diego Lopez
+1595,Sebastian Eriksson,Midfielder,Sweden,Cagliari,Italy,Sant'Elia,Diego Lopez
+1596,Silvan Widmer,Defender,Switzerland,Udinese,Italy,Friuli,Francesco Guidolin
+1597,Valon Behrami,Midfielder,Switzerland,Napoli,Italy,San Paolo,Rafael Benitez
+1598,Blerim Dzemaili,Midfielder,Switzerland,Napoli,Italy,San Paolo,Rafael Benitez
+1599,Gookhan Inler,Midfielder,Switzerland,Napoli,Italy,San Paolo,Rafael Benitez
+1600,Jonathan Rossini,Defender,Switzerland,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1601,Reto Ziegler,Defender,Switzerland,Sassuolo,Italy,Mapei Stadium  Cittoo del Tricolore,Eusebio Di Francesco
+1602,Gaetano Berardi,Defender,Switzerland,Sampdoria,Italy,Luigi Ferraris,Sinisa Mihajlovic
+1603,Stephan Lichtsteiner,Defender,Switzerland,Juventus,Italy,Juventus Stadium,Antonio Conte
+1604,Joel Untersee,Defender,Switzerland,Juventus,Italy,Juventus Stadium,Antonio Conte
+1605,Cabral,Midfielder,Switzerland,Genoa,Italy,Luigi Ferraris,Gianpiero Gasperini
+1606,Innocent Emeghara,Forward,Switzerland,Livorno,Italy,Armando Picchi,Domenico Di Carlo
+1607,Yohan Benalouane,Defender,Tunisia,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1608,Baranovsky Nikita Contini,Goalkeeper,Ukraine,Napoli,Italy,San Paolo,Rafael Benitez
+1609,Lopez Nico,Forward,Uruguay,Udinese,Italy,Friuli,Francesco Guidolin
+1610,Alejandro Damian Gonzalez,Defender,Uruguay,Hellas Verona-*,Italy,Marcantonio Bentegodi,Andrea Mandorlini
+1611,Miguel Angel Britos,Defender,Uruguay,Napoli,Italy,San Paolo,Rafael Benitez
+1612,Gonzalez,Midfielder,Uruguay,Lazio,Italy,Olimpico,Edoardo Reja
+1613,Alfaro,Forward,Uruguay,Lazio,Italy,Olimpico,Edoardo Reja
+1614,Diego Perez,Midfielder,Uruguay,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1615,Diego Laxalt,Forward,Uruguay,Bologna,Italy,Renato Dall'Ara,Davide Ballardini
+1616,Rodriguez,Defender,Uruguay,Torino,Italy,Olimpico,Giampiero Ventura
+1617,Gargano,Midfielder,Uruguay,Parma,Italy,Ennio Tardini,Roberto Donadoni
+1618,Morales Ruboon Daniel Bentancourt,Forward,Uruguay,Atalanta,Italy,Atleti Azzurri d'Italia,Stefano Colantuono
+1619,Caceres,Defender,Uruguay,Juventus,Italy,Juventus Stadium,Antonio Conte
+1620,Roloon,Defender,Uruguay,Catania,Italy,Angelo Massimino,Rolando Maran
+1621,Matias Cabrera,Midfielder,Uruguay,Cagliari,Italy,Sant'Elia,Diego Lopez
+1622,Vecino,Midfielder,Uruguay,Cagliari,Italy,Sant'Elia,Diego Lopez
+1623,Godfred Donsah,Forward,Ghana,Hellas Verona,Italy,Marcantonio Bentegodi,Andrea Mandorlini

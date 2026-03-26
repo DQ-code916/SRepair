@@ -1,0 +1,4 @@
+{ t0.article_language <> t1.article_language && t0.article_jvolumn == t1.article_jvolumn }
+{ t0.article_language <> t1.article_language && t0.journal_title == t1.journal_title && t0.author_list == t1.author_list && t0.article_jvolumn <> t1.article_jvolumn }
+{ t0.id >= t1.id && t0.article_jvolumn == t1.article_jvolumn }
+{ t0.journal_title == t1.journal_title && }

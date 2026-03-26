@@ -1,0 +1,6 @@
+¬{ t0.age == t1.age ∧ t0.coffee_consumption_per_day > t1.coffee_consumption_per_day }
+¬{ t0.social_platform_preference == t1.social_platform_preference ∧ t0.days_feeling_burnout_per_month == t1.days_feeling_burnout_per_month }
+¬{ t0.social_platform_preference == t1.social_platform_preference ∧ t0.number_of_notifications == t1.number_of_notifications }
+¬{ t0.age == t1.age ∧ t0.breaks_during_work > t1.breaks_during_work }
+¬{ t0.age == t1.age ∧ t0.uses_focus_apps <> t1.uses_focus_apps }
+¬{ t0.stress_level == t1.stress_level ∧ t0.breaks_during_work == t1.breaks_during_work }
